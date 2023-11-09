@@ -1,21 +1,21 @@
 11/7/23 PM UPDATE LOG
 
-**BANK ROBBERIES**
+BANK ROBBERIES
 • Updated banks to now feature blueprints for weapons. Before the logic was barely ever giving a chance to get a print, making the chance less then .005%. NOW, it gives you a whole 10% chance out of 100%.
 • Added Glocks and Sigs to the loot tables
 
-**BOBCAT**
+BOBCAT
 • Removed Heavy Pistols from loot tables, and replaced with more automatics.
 • Adjusted loot tables for attachments. Now it will drops specialized clips for Glocks, SMG clips, and more!
 
-**UNION DEPOSITORY**
+UNION DEPOSITORY
 • Updated loot tables for cash trolleys to be more rewarding. Now it basically is **DOUBLED**, making it one of our larger cash grabs for crews.
 
-**VANGELICO**
+VANGELICO
 • Adjusted loot tables to give more. This one I was not sure of so I only made a slight adjustment to see payouts over time as its per case! Adjusted this by almost 2x.
 
-**ARMORED TRUCKS**
+ARMORED TRUCKS
 • Now armored trucks have a chance of dropping heavy pistols.
 
-**MISC**
+MISC
 • Fixed a health issue for certain people where it would desync health.
