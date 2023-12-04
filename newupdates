@@ -1,21 +1,30 @@
-11/7/23 PM UPDATE LOG
+12/4/23 AM UPDATE LOG
 
-BANK ROBBERIES
-• Updated banks to now feature blueprints for weapons. Before the logic was barely ever giving a chance to get a print, making the chance less then .005%. NOW, it gives you a whole 10% chance out of 100%.
-• Added Glocks and Sigs to the loot tables
+TAXI CABS
+• Taxi job now works 100%. Includes nice radial functions through your radial menu as well as nice context menus to easily navigate through the job first time clocking on! Head down to downtown taxi cab, and get a job there where you can pull your vehicles out, and start picking the public up today! We want some to PLAYER OWN THIS! Get to roleplaying it and we just might give it ya! (Also offers nice NPC missions for down time :slight_smile: )
 
-BOBCAT
-• Removed Heavy Pistols from loot tables, and replaced with more automatics.
-• Adjusted loot tables for attachments. Now it will drops specialized clips for Glocks, SMG clips, and more!
+STANCING MAKES A RETURN!
+• Stancing completed and should be working 100% now!
+• Got rid of all floating text and now just has a pop up text prompt saying to Edit vehicle or stance vehicle! 
+• *DISCLAIMER: If seen with a god hideous stance, the vehicle will be repoed and not returned. Were not playing with the ridiculous stances this time around. The mechanic who does the stance also will be fired via the government from the shop.*
 
-UNION DEPOSITORY
-• Updated loot tables for cash trolleys to be more rewarding. Now it basically is **DOUBLED**, making it one of our larger cash grabs for crews.
+BOOSTING MAKES ITS RETURN
+• Boosting makes a return and is up and running!
+• When on any device, you now do an emote to let others know you are doing the hack, or on the tablet.
+• We will be working directly with the car scene and the boosting scene to make the lists make sense! For now though, you can start grinding through D and C while we work with them to make this EPIC in 3.0 where it makes sense, is worth it, and exclusive to those players doing the activities.
 
-VANGELICO
-• Adjusted loot tables to give more. This one I was not sure of so I only made a slight adjustment to see payouts over time as its per case! Adjusted this by almost 2x.
+PEDESTRAINS AROUND THE STATE
+• Peds are no longer robots. Gang peds are aggressive and not to be messed with unless you want to do that.
+• Random peds might also be packing so watch out who you are just going around punching and being aggressive towards for no reason :rofl: 
 
-ARMORED TRUCKS
-• Now armored trucks have a chance of dropping heavy pistols.
+DMV
+• Updated DMV to now give keys when getting into the vehicle! Sorry about this!
+
+SETTINGS MENU
+• The menu to remove clothing and toggle blips was updated to feature the correct clothing codes for the new clothing set up! Fixed for both men and women ITS IMPARITIVE THAT YOU HAVE NO SHOES ON TO BE QUIET :wink:
+
+PLASTIC SURGEON
+• Plastic Surgeon is back in the left side of Eclipse Hospital :slight_smile:
 
 MISC
-• Fixed a health issue for certain people where it would desync health.
+• Added garage to two parking spots at the right of LSC INSIDE the shop
