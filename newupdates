@@ -1,64 +1,59 @@
-12/5/23 AFTERNOON UPDATE LOG
+12/11/23 AFTERNOON UPDATE LOG
+HOUSE ROBBERIES
+• Re-wrote the script
+• Optimized it more
+• Added more exploit checks
+• Updated logs
 
-CRAFTING MAKES IT RETURN!!!
-• Crafting has finally made its return! Same great layout and UI, with better logic built in, new ways to obtain recipes, and new things to explore!
-• Now you will need to find tables around the state. Once you find a table, you will be able to make said table.
-• If I find the Perk Table, Im able to make a table that now lets me specialize in perks. So on and so forth.
-• Recipes updated to now take materials based on the item rarity.
-• XP Drops improved to give better XP for items actually used to jobs and such. Items that do not do anything for jobs, give less XP.
-• We tried to remove as much items that were just blank and bleh like bats as it was being abused before to just make cheap items. Less items the recipe takes to make, less XP it will result. Meaning Hefty crafts good XP drops, where lower crafts give very minimal XP.
-• Leveling systems adjusted to now offer randomized XP drops as well, to change things up. Each item has their own random-izer making crafting shift daily and refresh daily.
-• Now you will be hunting for 4 tables (currently). These tables offer you the opportunity to make your own crafting table and start crafting certain items for certain XP ranks.
-• Once you get a table, you will be able to use it for 21 days, before having to make a new one! This makes the tables worth something, and actually makes you work your towards something rather then getting it once, and your done.
+VEHICLE CHOP SHOP HITS THE STREETS OF LOS SANTOS
+• A brand new activity that was completely re-written from the previous activity. Nothing is the same!
+• Will need to find location of chop shop first, and then figure out how to open the place up for yourself!
+• Once you open the shop up, can start breaking down cars (Timer implemented to prevent constant chopping)
+• One car can be chopped at a time.
+• Completely interactive job and fun to do either in a group or solo. (If doing in a group, you will not be able to chop 2 cars at once. Will have to chop 1 then chop the other, and so on)
+• Get illegal car parts that you can then break down even further to get more materials in crafting and such.
+• Two tools needs to do the scrapping.
+• Timer is sync'd via server so no matter what it remembers where you were at.
+• Get dirty money at the end of the job for completing the job.
+• Fixed critical issue that prevented the script from launching correctly
+• Added sounds to everything to make it more immersive.
+• Was tested in the live server to ensure its fully operational and working! :heart:
 
-XP BEGINS
-• All XP drops have been activated and are in place! You will not start to gain XP in all their respective categories and all XP is active besides cooking, which will come soon to our new job re-writes coming very soon!
+RECYCLING
+• Update recycling/scrapping to feature the new parts added + added a ton of new items such as jewelry and stuff you get from the house robberies!
 
-AMMUNATIONS
-• Ammunations re-worked to now offer boxes of ammo, instead of 1 bullet by 1 bullet.
-• Ammunations now offer pump shotguns.
-• We plan to bring in 2-3 more legal weapons for the stores in future updates as well!
+CRAFTING
+• After hearing feedback, I removed degrading off most of the crafting items that you need to collect. (this was pushed at 3AM last night)
 
-PAYCHECKS
-• Paycheck ped at the big was move to be in the center teller bay at the big bank.
-• Also fixed the ATMs at the front of the bank as well
+DEALERSHIPS
+• Dealerships test drives are now at the airport. DO NOT take test drives on open road ways, as you could get into an interaction, and then poof when the test drive is done.
+• Updated dealerships to feature a new self purchasing dealership for police. The FIRST of its kind is at Vinewood PD for police officers! They will walk to where their old vehicle purchaser was, and can see the new layout!
 
-BILLING
-• Something I forgot to mention in the update log is a new billing feature that allows workers to earn profits share. This is 10% of whatever the bill was. For instance, If I work at burgershot, and am actually at burgershot, and I bill a person $1000 for XYZ, I get $100 for that bill. This is to promote the players to actually work these jobs for even more pay on the increased paycheck! (this is not controlled by the business and this could increase in the future to give back to the workers as they are why the business is open!) :heart:
+VANGELICO HEIST
+• Update logs and improved logic for lasers
 
-PHONE
-• Fixed spelling error in Emerald Bar App on the phone.
+ECLIPSE MEDICAL CENTER
+• Updated the hospital so all beds are lay-able. Simply third eye the MRI tables, X Ray Tables, and all the medical beds and room in D Ward! You will Lay down. Press X to get up! 
 
-• Taxi job now works 100%. Includes nice radial functions through your radial menu as well as nice context menus to easily navigate through the job first time clocking on! Head down to downtown taxi cab, and get a job there where you can pull your vehicles out, and start picking the public up today! We want some to PLAYER OWN THIS! Get to roleplaying it and we just might give it ya! (Also offers nice NPC missions for down time :slight_smile: )
+DRUGS
+• Updated drug bags to now just be all the same. There are two ways to obtain these. You can either buy them off the street from a dealer, OR you can player to player interaction for bags. Puff Puff Pass and White Widow will feature these bags for basically HALF OFF, making it extremely valuable to enjoy player to player interactions, rather then buying from NPC.
+• Shears were missed in the last update. Fixed this immediately.
+• Everything should be settled and good to go for weed growing, weed rolling, and weed selling.
 
-STANCING MAKES A RETURN!
-• Stancing completed and should be working 100% now!
-• Got rid of all floating text and now just has a pop up text prompt saying to Edit vehicle or stance vehicle! 
-• *DISCLAIMER: If seen with a god hideous stance, the vehicle will be repoed and not returned. Were not playing with the ridiculous stances this time around. The mechanic who does the stance also will be fired via the government from the shop.*
+CLOTHING
+• Finished up the cops clothing from last night. Fixed some things, some spelling errors, and cleaned up the last bit we needed to get done. Also finished the woman's duty belts found under T SHIRTS. We ALSO added two clothing T SHIRTS for women that were pretty popular in 2.0. That being the shorts with radio on them, and the upper leg chaps. We will start to release clothing updates weekly centered around the ENTIRE city.
 
-BOOSTING MAKES ITS RETURN
-• Boosting makes a return and is up and running!
-• When on any device, you now do an emote to let others know you are doing the hack, or on the tablet.
-• We will be working directly with the car scene and the boosting scene to make the lists make sense! For now though, you can start grinding through D and C while we work with them to make this EPIC in 3.0 where it makes sense, is worth it, and exclusive to those players doing the activities.
+FACTION MAPS
+• To ensure fairness and quality, we noticed we missed two compounds from 2.0. That being old TKR and Illuminati factions. We have removed these for the time being they will brought back in once gangs have actually made a name for themselves as a faction and is recognized as a GOOD RP GROUP. This goes for ALL FACTIONS :heart: :slight_smile: 
 
-PEDESTRAINS AROUND THE STATE
-• Peds are no longer robots. Gang peds are aggressive and not to be messed with unless you want to do that.
-• Random peds might also be packing so watch out who you are just going around punching and being aggressive towards for no reason :rofl: 
+WHITE WIDOW
+• White Widow store for employees to sell their items were fixed and placed back in their shop. Can be found by the counter they put items on for their customers in the middle of the terminals.
+• Updated White Widow text for targets
 
-DMV
-• Updated DMV to now give keys when getting into the vehicle! Sorry about this!
+INVENTORY
+• Fixed and updated degrade for a lot of the hacking items meant for jobs. They were at like 6 hours. Extended to be 3 days now.
+• Updated icons for stashes from a warehouse to an open box.
+• Updated icons for Evidence for police from a warehouse to an evidence box logo.
 
-SETTINGS MENU
-• The menu to remove clothing and toggle blips was updated to feature the correct clothing codes for the new clothing set up! Fixed for both men and women ITS IMPARITIVE THAT YOU HAVE NO SHOES ON TO BE QUIET :wink:
-
-PLASTIC SURGEON
-• Plastic Surgeon is back in the left side of Eclipse Hospital :slight_smile:
-
-MISC
-• Added garage to two parking spots at the right of LSC INSIDE the shop
-• Added black out tattoos.
-• Added 5 hair fades under beard options so men can have cleaner fades.
-
-This is a very juicy update packed full of content that will literally last you HOURS figuring out everything. We of course cant be perfect, and plan to really listen to feedback around XP, and crafting to make sure its fun, KINDA grindy, but rewarding and not useless. Please if you have feedback, WRITE IT DOWN ON A NOTEPAD, and save it for the meetings we plan! We will be having a mid month meeting Wednesday December 13th to touch down with all the players, and see what can be IMPROVED based on your feedback! <3 Thanks all!
-TAXI CABS
-
+LOCKPICKS
+• Lockpicks were breaking due to a incorrect logic written at 3AM. :rofl: Now instead of having a 90% change of breaking, its a 10% of breaking.
