@@ -1,59 +1,98 @@
-12/11/23 AFTERNOON UPDATE LOG
-HOUSE ROBBERIES
-• Re-wrote the script
-• Optimized it more
-• Added more exploit checks
-• Updated logs
+12/14/23 NIGHT UPDATE LOG
+JOBS GET A MAJOR FACELIFT
+• We have over hauled every job basically. With the exception to fruit picking, farming, and scuba diving (These were already re-written at the end of 2.0 besides scuba diving, which works 100% and great. We didnt see anything wrong with these or what we could add more to, so we left these untouched), everything else from basically head to toe were re-written, and re-imagined. With the help from Dynasty, And 17MOV, were were able to get these all re-done in a nice, optimized way! Below is a sneak peak at what you can expect. With over 14 Public Jobs now, we think you will have a blast at what we have to offer you!
 
-VEHICLE CHOP SHOP HITS THE STREETS OF LOS SANTOS
-• A brand new activity that was completely re-written from the previous activity. Nothing is the same!
-• Will need to find location of chop shop first, and then figure out how to open the place up for yourself!
-• Once you open the shop up, can start breaking down cars (Timer implemented to prevent constant chopping)
-• One car can be chopped at a time.
-• Completely interactive job and fun to do either in a group or solo. (If doing in a group, you will not be able to chop 2 cars at once. Will have to chop 1 then chop the other, and so on)
-• Get illegal car parts that you can then break down even further to get more materials in crafting and such.
-• Two tools needs to do the scrapping.
-• Timer is sync'd via server so no matter what it remembers where you were at.
-• Get dirty money at the end of the job for completing the job.
-• Fixed critical issue that prevented the script from launching correctly
-• Added sounds to everything to make it more immersive.
-• Was tested in the live server to ensure its fully operational and working! :heart:
+STONE SOBER
+• The new take on Construction.
+• In game tutorial will walk you through the process.
+• Multiplayer job meaning easier, faster, and more profitable with groups.
+• Go around LS, and literally build the city around you. With multiple jobs to offer, gives it a nice feeling to construction.
+• Company Provided vehicles that you have to do the job in, outfits made for you, and the ability to manage who gets what cut.
+• Drops unique items and cash
 
-RECYCLING
-• Update recycling/scrapping to feature the new parts added + added a ton of new items such as jewelry and stuff you get from the house robberies!
+ZIP ZAP ZOP
+• A new take on Post Ops
+• In game tutorial will walk you through the process.
+• A multiplayer job offering going around LS with a friend or friends and delivering packages to civs around the city.
+• One driver, one package deliver is all thats needed to be successful in this job.
+• Drops unique items and cash
+• All done through the third eye.
 
-CRAFTING
-• After hearing feedback, I removed degrading off most of the crafting items that you need to collect. (this was pushed at 3AM last night)
+SHOCKING SOLUTIONS
+• Brand new job being introduced that actually has a bridge between crim and civ RP.
+• In game tutorial will walk you through the process.
+• Go around with a friend while you help LS gain electricity back in out areas.
+• Easy, Medium, and Hard difficulties.
+• Hacking mini games involved just might help you in hacks around the city. Id try it out!
+• Super fun group activity to do with friends
+• Drops unique items and cash
+• All done through the third eye.
 
-DEALERSHIPS
-• Dealerships test drives are now at the airport. DO NOT take test drives on open road ways, as you could get into an interaction, and then poof when the test drive is done.
-• Updated dealerships to feature a new self purchasing dealership for police. The FIRST of its kind is at Vinewood PD for police officers! They will walk to where their old vehicle purchaser was, and can see the new layout!
+SANITATION
+• The new take on Sanitation.
+• In game tutorial will walk you through the process.
+• Now your group of up to 4 people, will be able to go around and actually pick up the 3D objects in the world. You will find trash bags instead of garbage bins, and pick them up, and put them in the garbage truck!
+• Drops unique items and cash
+• All done through the third eye.
 
-VANGELICO HEIST
-• Update logs and improved logic for lasers
+WOODLAND WONDERS
+• One of the most immersive jobs we think you have ever seen. Brand new, and shiny to Rogue.
+• In game tutorial will walk you through the process.
+• Up to 4 people can tackle paleto forest, cutting down tress, and either processing them or delivering solid logs around the city!
+• Unique vehicles, sounds, animations, and a ton to do in this job!
+• Very unique and worth while job that takes a bit but pays nicely. 
+• Drops unique items and cash
 
-ECLIPSE MEDICAL CENTER
-• Updated the hospital so all beds are lay-able. Simply third eye the MRI tables, X Ray Tables, and all the medical beds and room in D Ward! You will Lay down. Press X to get up! 
+GARDENING
+• The new take on Gardening.
+• A new single player job that you can do all through third eye and no more floating text where needed.
+• Over 5 unqiue jobs inside this job to switch up activity and pay through the experience system.
+• Gain XP in side the center to progress to becoming a master Gardner.
+• Can be done in groups as well, but will not work in a group system
 
-DRUGS
-• Updated drug bags to now just be all the same. There are two ways to obtain these. You can either buy them off the street from a dealer, OR you can player to player interaction for bags. Puff Puff Pass and White Widow will feature these bags for basically HALF OFF, making it extremely valuable to enjoy player to player interactions, rather then buying from NPC.
-• Shears were missed in the last update. Fixed this immediately.
-• Everything should be settled and good to go for weed growing, weed rolling, and weed selling.
+THE VINEYARD
+• The new take on Wine Making/Vineyard Work.
+• A super fun acitivty job that we hope to see turn WL.
+• Gather Grapes, Smash them, Clean bottles, Label Bottles, and Fill them. You will then deliver them around LS for profits!
+• Can be done in groups as well, but will not work in a group system
 
-CLOTHING
-• Finished up the cops clothing from last night. Fixed some things, some spelling errors, and cleaned up the last bit we needed to get done. Also finished the woman's duty belts found under T SHIRTS. We ALSO added two clothing T SHIRTS for women that were pretty popular in 2.0. That being the shorts with radio on them, and the upper leg chaps. We will start to release clothing updates weekly centered around the ENTIRE city.
+MINING
+• An all new experience, with some goodies from 2.0.
+• In game tutorial will walk you through the process.
+• Customs props give the job a new feeling.
+• New XP system introduced is via the player and player only. Making it a job that pays well if YOU work it, not buying a lvl 5 pickaxe from someone.
+• Nice UI that helps track progress.
+• Unique sounds and animations syncd across all players.
+• Drops unique items and cash
+• Dropped the crushing of stones, so it gives broken stones.
 
-FACTION MAPS
-• To ensure fairness and quality, we noticed we missed two compounds from 2.0. That being old TKR and Illuminati factions. We have removed these for the time being they will brought back in once gangs have actually made a name for themselves as a faction and is recognized as a GOOD RP GROUP. This goes for ALL FACTIONS :heart: :slight_smile: 
+PROSPECTING
+• A highly requested activity that has been asked for multiple times in 2.0
+• In game tutorial will walk you through the process.
+• Using a metal detector you will search through green zones to find materials under ground.
+• Unique sounds let players know when they are close.
+• Drops unique items but no cash.
+• DO NOT have to have the job to do this. Its a fun activity to do with friends.
 
-WHITE WIDOW
-• White Widow store for employees to sell their items were fixed and placed back in their shop. Can be found by the counter they put items on for their customers in the middle of the terminals.
-• Updated White Widow text for targets
+TRUCKING & HUNTING
+• *Tomorrow you will get another update with two more jobs. These are the two jobs we saved for tomorrow to ensure they are fully ready to go, tested, and bug free. We shall see you tomorrow for these FUN & INTERACTIVE jobs.*
 
-INVENTORY
-• Fixed and updated degrade for a lot of the hacking items meant for jobs. They were at like 6 hours. Extended to be 3 days now.
-• Updated icons for stashes from a warehouse to an open box.
-• Updated icons for Evidence for police from a warehouse to an evidence box logo.
+POLICE VEHICLES
+• Sorry for the wait on this. The metas were finally updated and ported over which was missed in the 3.0 update. This is my bad and im sorry! I will continue to work with Commish Samitto until these cars are fully perfect, and that we don't need to make any more adjustments!
 
-LOCKPICKS
-• Lockpicks were breaking due to a incorrect logic written at 3AM. :rofl: Now instead of having a 90% change of breaking, its a 10% of breaking.
+JOB CENTER
+• Job center will be updated in the next coming days. For now I pushed the current system for now. This was live written just now and was not tested so lets pray it works :rofl:
+
+12 DAYS OF XMAS WITH ROGUE
+• I love Xmas and this year we decided to get creative with as much as possible for you all with Xmas activities!
+• Along side our Xmas mapping this year, we have activated perm snow weather till after Xmas! Enjoy the winter wonderland we call LS!
+• Press K while outside in snow to pack snowballs! You will pack 2 snow balls at a time, and they will go into your inventory!
+• The gift shop was updated to feature NEW items this year! You can buy Trees, Tree decorations, Advent Calendars, and more!
+• NEW Advent Calendar will give you 12 days of gifts upon log in! Simply log in, open the advent calendar, and enjoy some goodies we have given you!
+• We have added a special XMAS Radial menu with three options! Lets go over those quickly!
+• Radial option to build tree is now available. Have 5 decorations, 1 star, and 1 tree to build a tree! Done through using the radial option, and then placing the tree and third eye the tree to build
+• Radial option to build snowman now available. Simply use the command outside, and you will third eye the snow man. You will collect snow balls and then apply them to the snow man! These actually stay in the world, and will stay after server restarts. Please do not place snowmen in stupid places. We do have logs of every action done, and we will take action towards any dumb snowmen placed.
+• Packing gifts now re-wrote! Using the new option to pack a gift! You buy empty gifts from the gift shop, you use the item, and then place whatever you want inside the box! THEN you will either use the radial option to pack the gift, OR you can do command `/packgift` and then a name. For instance `/packgift Tony` would put on the name tag of the gift the name TONY on it! :slight_smile:
+• Trees have storages. Place gifts under the tree, and you will see the gifts appear under the tree! :slight_smile:
+• Gifts wrapped CANNOT be open till AFTER Christmas! :heart:
+• Keep your eyes peeled for our city wide Government hosted present hunt. This event will take place on the 22nd to the 25th, and will have over 200 presents to scattered around the city to collect!
