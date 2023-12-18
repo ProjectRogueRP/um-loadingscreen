@@ -1,98 +1,55 @@
-12/14/23 NIGHT UPDATE LOG
-JOBS GET A MAJOR FACELIFT
-• We have over hauled every job basically. With the exception to fruit picking, farming, and scuba diving (These were already re-written at the end of 2.0 besides scuba diving, which works 100% and great. We didnt see anything wrong with these or what we could add more to, so we left these untouched), everything else from basically head to toe were re-written, and re-imagined. With the help from Dynasty, And 17MOV, were were able to get these all re-done in a nice, optimized way! Below is a sneak peak at what you can expect. With over 14 Public Jobs now, we think you will have a blast at what we have to offer you!
+12/18/23 UPDATE LOG
+We hit the ground running with the amazing feedback given last night. These community meetings REALLY do help me, and we listen to MOST ideas. As you can see below, we dont play around when it comes to quality, and what YOU as the player want from YOUR community. Enjoy these nice updates, theres more to come! Thanks for being here, YOU are a big part in Rogues development and evolution!
 
-STONE SOBER
-• The new take on Construction.
-• In game tutorial will walk you through the process.
-• Multiplayer job meaning easier, faster, and more profitable with groups.
-• Go around LS, and literally build the city around you. With multiple jobs to offer, gives it a nice feeling to construction.
-• Company Provided vehicles that you have to do the job in, outfits made for you, and the ability to manage who gets what cut.
-• Drops unique items and cash
+TRUCKING
+• Based upon community meeting we have made multiple adjustments to trucking. Below came from the communities immediate feedback in the first 12 hours.
+• Party price lowered from 5K to 3.5K. Price per member is only $100 now.
+• Contract generation increased from 30 contracts to 40 contracts.
+• Contract generation lowered by almost 50%, meaning almost twice the contracts will generate now.
+• Made a check where when it hits the 40 contracts it will now delete the oldest contract and get rid of it.
+• Freight jobs got a new "multiplayer". Now freight jobs will take base price and x it by 1.4 making it more profitable.
+• Urgent Cargo increased in probability by almost 2x.
+• Distance is based upon skill. We increased the distance players can drive per level and will continue to monitor this if it needs to be increased more!
+• Made 4 new multiplayers. Fast, Fragile, Valuable, and Distance. These will be applied the higher level you get, and the more money you can make based upon ADA certification, and type of cargo.
+• All trailers DO WORK. HOWEVER, they can take and require speciality trucks. This means to do all the jobs, you will need to purchase more then 1 truck! :slight_smile:
+
+CONSTRUCTION
+• Based upon community meeting we buffed the job payments a little bit, and really focused on the material drops here. 
+• Based upon community meeting we buffed material drops and should be dropping materials more often and frequent.
+
+SCUBA DIVING
+• Based upon community meeting we buffed scuba diving and fixed issue with old table inside the loot. Was fixed and adjusted.
+• Based upon community meeting we removed rubber and replaced it with other goodies. Dropped copper as well.
+• Based upon community meeting we adjusted the crate to now drop more items to make it more worth it
 
 ZIP ZAP ZOP
-• A new take on Post Ops
-• In game tutorial will walk you through the process.
-• A multiplayer job offering going around LS with a friend or friends and delivering packages to civs around the city.
-• One driver, one package deliver is all thats needed to be successful in this job.
-• Drops unique items and cash
-• All done through the third eye.
+• Based upon community meeting we updated loot table to not feature plastic as its already in other jobs. Features now two unique items you will need in crafting.
 
-SHOCKING SOLUTIONS
-• Brand new job being introduced that actually has a bridge between crim and civ RP.
-• In game tutorial will walk you through the process.
-• Go around with a friend while you help LS gain electricity back in out areas.
-• Easy, Medium, and Hard difficulties.
-• Hacking mini games involved just might help you in hacks around the city. Id try it out!
-• Super fun group activity to do with friends
-• Drops unique items and cash
-• All done through the third eye.
-
-SANITATION
-• The new take on Sanitation.
-• In game tutorial will walk you through the process.
-• Now your group of up to 4 people, will be able to go around and actually pick up the 3D objects in the world. You will find trash bags instead of garbage bins, and pick them up, and put them in the garbage truck!
-• Drops unique items and cash
-• All done through the third eye.
-
-WOODLAND WONDERS
-• One of the most immersive jobs we think you have ever seen. Brand new, and shiny to Rogue.
-• In game tutorial will walk you through the process.
-• Up to 4 people can tackle paleto forest, cutting down tress, and either processing them or delivering solid logs around the city!
-• Unique vehicles, sounds, animations, and a ton to do in this job!
-• Very unique and worth while job that takes a bit but pays nicely. 
-• Drops unique items and cash
-
-GARDENING
-• The new take on Gardening.
-• A new single player job that you can do all through third eye and no more floating text where needed.
-• Over 5 unqiue jobs inside this job to switch up activity and pay through the experience system.
-• Gain XP in side the center to progress to becoming a master Gardner.
-• Can be done in groups as well, but will not work in a group system
-
-THE VINEYARD
-• The new take on Wine Making/Vineyard Work.
-• A super fun acitivty job that we hope to see turn WL.
-• Gather Grapes, Smash them, Clean bottles, Label Bottles, and Fill them. You will then deliver them around LS for profits!
-• Can be done in groups as well, but will not work in a group system
-
-MINING
-• An all new experience, with some goodies from 2.0.
-• In game tutorial will walk you through the process.
-• Customs props give the job a new feeling.
-• New XP system introduced is via the player and player only. Making it a job that pays well if YOU work it, not buying a lvl 5 pickaxe from someone.
-• Nice UI that helps track progress.
-• Unique sounds and animations syncd across all players.
-• Drops unique items and cash
-• Dropped the crushing of stones, so it gives broken stones.
+ELECTRICIAN
+• Based upon community meeting we updated loot table to feature 4 loot items instead of 3.
 
 PROSPECTING
-• A highly requested activity that has been asked for multiple times in 2.0
-• In game tutorial will walk you through the process.
-• Using a metal detector you will search through green zones to find materials under ground.
-• Unique sounds let players know when they are close.
-• Drops unique items but no cash.
-• DO NOT have to have the job to do this. Its a fun activity to do with friends.
+• Based upon community meeting we edited these items. NOW, they arent the greatest still yet, but you will definitley NEED these items in crafting, so it does make it worth it in the end. Its a very easy job and fun to do in down time. We do plan on making this more unqiue with speciality drops in the near future like broken glasses, dog leashes, etc. that you will actually be able to scrap into material!
 
-TRUCKING & HUNTING
-• *Tomorrow you will get another update with two more jobs. These are the two jobs we saved for tomorrow to ensure they are fully ready to go, tested, and bug free. We shall see you tomorrow for these FUN & INTERACTIVE jobs.*
+HOUSE ROBBERIES
+• Based upon community meeting we fixed issue after getting to level 9 the house robberies would break. This was fixed. Congrats to those who are already level 9, you are now on your way to the IPL, which is a pretty awesome experience robbing an interior that you can sit out of!
+• Based upon community meeting we updated the cool down timer. Before it was 20 minutes per person. Now its lowered to 5 minutes.
 
-POLICE VEHICLES
-• Sorry for the wait on this. The metas were finally updated and ported over which was missed in the 3.0 update. This is my bad and im sorry! I will continue to work with Commish Samitto until these cars are fully perfect, and that we don't need to make any more adjustments!
+ILLEGAL ITEMS
+• Based upon community meeting we buffed MOST illegal items from 3 days degrade to 7 days.
 
-JOB CENTER
-• Job center will be updated in the next coming days. For now I pushed the current system for now. This was live written just now and was not tested so lets pray it works :rofl:
+CROUCHING
+• Based upon community meeting we brought back crouching! Players can now crouch via using their Left Control. Hitting this will make you crouch and hitting it again will make you rise
 
-12 DAYS OF XMAS WITH ROGUE
-• I love Xmas and this year we decided to get creative with as much as possible for you all with Xmas activities!
-• Along side our Xmas mapping this year, we have activated perm snow weather till after Xmas! Enjoy the winter wonderland we call LS!
-• Press K while outside in snow to pack snowballs! You will pack 2 snow balls at a time, and they will go into your inventory!
-• The gift shop was updated to feature NEW items this year! You can buy Trees, Tree decorations, Advent Calendars, and more!
-• NEW Advent Calendar will give you 12 days of gifts upon log in! Simply log in, open the advent calendar, and enjoy some goodies we have given you!
-• We have added a special XMAS Radial menu with three options! Lets go over those quickly!
-• Radial option to build tree is now available. Have 5 decorations, 1 star, and 1 tree to build a tree! Done through using the radial option, and then placing the tree and third eye the tree to build
-• Radial option to build snowman now available. Simply use the command outside, and you will third eye the snow man. You will collect snow balls and then apply them to the snow man! These actually stay in the world, and will stay after server restarts. Please do not place snowmen in stupid places. We do have logs of every action done, and we will take action towards any dumb snowmen placed.
-• Packing gifts now re-wrote! Using the new option to pack a gift! You buy empty gifts from the gift shop, you use the item, and then place whatever you want inside the box! THEN you will either use the radial option to pack the gift, OR you can do command `/packgift` and then a name. For instance `/packgift Tony` would put on the name tag of the gift the name TONY on it! :slight_smile:
-• Trees have storages. Place gifts under the tree, and you will see the gifts appear under the tree! :slight_smile:
-• Gifts wrapped CANNOT be open till AFTER Christmas! :heart:
-• Keep your eyes peeled for our city wide Government hosted present hunt. This event will take place on the 22nd to the 25th, and will have over 200 presents to scattered around the city to collect!
+ECLIPSE MEDICAL CENTER
+• Based upon community meeting we updated it so food boxes don't get removed at the hospital.
+• Based upon community meeting we have added so at eclipse, it now features a ped who can give you your items back instead of having to go to a PD. You still can collect them also at PDs as well!
+
+PIZZA THIS
+• Based upon community meeting we updated kitchen times by almost 50%, making it 2x more productive!
+
+ROUGE CRATES
+• Based upon community meeting we changed loot options on rogue crates!
+
+OUTDOOR TRAVELER
+• Based upon community meeting we added a simple storage counter, so you can transfer items between bartender and customer!
