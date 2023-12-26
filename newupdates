@@ -1,55 +1,27 @@
-12/18/23 UPDATE LOG
-We hit the ground running with the amazing feedback given last night. These community meetings REALLY do help me, and we listen to MOST ideas. As you can see below, we dont play around when it comes to quality, and what YOU as the player want from YOUR community. Enjoy these nice updates, theres more to come! Thanks for being here, YOU are a big part in Rogues development and evolution!
+12/26/23 UPDATE LOG
+WINTER LEAVES ROGUE
+• While the snow was beautiful I KNOW you all have been asking for no snow. It lasted approx 2 weeks, and the cold front has lifted off LS and the surrounding areas! It MIGHT RETURN for New Years Eve just to enjoy the evening with snow one last time!
+• XMAS mapping has been removed.
+• XMAS festivities like tress, snow men, the XMAS shop, Advent Calendars, etc. have been removed. We loved seeing everyone enjoy the xmas stuff this year, and we plan on bringing a HUGE event for next year that will include an actual player ran Santa role that will fly over the town for a week and deliver gifts to you all!
+• Loading screen updated to feature new intro video and music to get it past the XMAS theme stuff
+• Removed snow effects from tires, intro screen, etc.
+• Radial removed for Xmas
+
+MILE HIGH CLUB
+• Added real physics to the water in the Jacuzzi
+• Fixed invisible collision in the Jacuzzi
+• Fixed flickering in the Pool
+• Fixed collisions on sidewalks
+
+MARKET STATION
+• Market Station is now marked on the map with an M so you know where your friends will be at once they fly in!
+• Added car rental to the inside of the market station. Simply walk up to the ped, and you can rent a car!
 
 TRUCKING
-• Based upon community meeting we have made multiple adjustments to trucking. Below came from the communities immediate feedback in the first 12 hours.
-• Party price lowered from 5K to 3.5K. Price per member is only $100 now.
-• Contract generation increased from 30 contracts to 40 contracts.
-• Contract generation lowered by almost 50%, meaning almost twice the contracts will generate now.
-• Made a check where when it hits the 40 contracts it will now delete the oldest contract and get rid of it.
-• Freight jobs got a new "multiplayer". Now freight jobs will take base price and x it by 1.4 making it more profitable.
-• Urgent Cargo increased in probability by almost 2x.
-• Distance is based upon skill. We increased the distance players can drive per level and will continue to monitor this if it needs to be increased more!
-• Made 4 new multiplayers. Fast, Fragile, Valuable, and Distance. These will be applied the higher level you get, and the more money you can make based upon ADA certification, and type of cargo.
-• All trailers DO WORK. HOWEVER, they can take and require speciality trucks. This means to do all the jobs, you will need to purchase more then 1 truck! :slight_smile:
+• Updated trucking contract pools. Now every other day, it will go through a loop and find the higher contracts and get rid of them. This hopefully curves the amount of high tier contracts.
+• Lowered contract generation to 5 minutes.
+• Updated urgent cargo probability by half.
+• Max contracts buffed to 60
 
-CONSTRUCTION
-• Based upon community meeting we buffed the job payments a little bit, and really focused on the material drops here. 
-• Based upon community meeting we buffed material drops and should be dropping materials more often and frequent.
-
-SCUBA DIVING
-• Based upon community meeting we buffed scuba diving and fixed issue with old table inside the loot. Was fixed and adjusted.
-• Based upon community meeting we removed rubber and replaced it with other goodies. Dropped copper as well.
-• Based upon community meeting we adjusted the crate to now drop more items to make it more worth it
-
-ZIP ZAP ZOP
-• Based upon community meeting we updated loot table to not feature plastic as its already in other jobs. Features now two unique items you will need in crafting.
-
-ELECTRICIAN
-• Based upon community meeting we updated loot table to feature 4 loot items instead of 3.
-
-PROSPECTING
-• Based upon community meeting we edited these items. NOW, they arent the greatest still yet, but you will definitley NEED these items in crafting, so it does make it worth it in the end. Its a very easy job and fun to do in down time. We do plan on making this more unqiue with speciality drops in the near future like broken glasses, dog leashes, etc. that you will actually be able to scrap into material!
-
-HOUSE ROBBERIES
-• Based upon community meeting we fixed issue after getting to level 9 the house robberies would break. This was fixed. Congrats to those who are already level 9, you are now on your way to the IPL, which is a pretty awesome experience robbing an interior that you can sit out of!
-• Based upon community meeting we updated the cool down timer. Before it was 20 minutes per person. Now its lowered to 5 minutes.
-
-ILLEGAL ITEMS
-• Based upon community meeting we buffed MOST illegal items from 3 days degrade to 7 days.
-
-CROUCHING
-• Based upon community meeting we brought back crouching! Players can now crouch via using their Left Control. Hitting this will make you crouch and hitting it again will make you rise
-
-ECLIPSE MEDICAL CENTER
-• Based upon community meeting we updated it so food boxes don't get removed at the hospital.
-• Based upon community meeting we have added so at eclipse, it now features a ped who can give you your items back instead of having to go to a PD. You still can collect them also at PDs as well!
-
-PIZZA THIS
-• Based upon community meeting we updated kitchen times by almost 50%, making it 2x more productive!
-
-ROUGE CRATES
-• Based upon community meeting we changed loot options on rogue crates!
-
-OUTDOOR TRAVELER
-• Based upon community meeting we added a simple storage counter, so you can transfer items between bartender and customer!
+LS RIVER
+• Fixed flying trees
