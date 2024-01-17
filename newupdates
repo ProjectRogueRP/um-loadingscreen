@@ -1,27 +1,49 @@
-12/26/23 UPDATE LOG
-WINTER LEAVES ROGUE
-• While the snow was beautiful I KNOW you all have been asking for no snow. It lasted approx 2 weeks, and the cold front has lifted off LS and the surrounding areas! It MIGHT RETURN for New Years Eve just to enjoy the evening with snow one last time!
-• XMAS mapping has been removed.
-• XMAS festivities like tress, snow men, the XMAS shop, Advent Calendars, etc. have been removed. We loved seeing everyone enjoy the xmas stuff this year, and we plan on bringing a HUGE event for next year that will include an actual player ran Santa role that will fly over the town for a week and deliver gifts to you all!
-• Loading screen updated to feature new intro video and music to get it past the XMAS theme stuff
-• Removed snow effects from tires, intro screen, etc.
-• Radial removed for Xmas
+THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
-MILE HIGH CLUB
-• Added real physics to the water in the Jacuzzi
-• Fixed invisible collision in the Jacuzzi
-• Fixed flickering in the Pool
-• Fixed collisions on sidewalks
+HUD
+• The map can now be activated even outside the vehicle. There is a setting on the Settings page. You can also do command `/mapon` or `/mapoff`
+• Engine health has been added as a bar.
+• Compass bug fixed. You can also turn on and off the compass now while on foot!
+• Fixed a display bug in the fuel display and now it also updates for everyone in the car!
+• You can now move your HUD and fix them to the desired position (This is in testing, and really only support 1080p right now)
+• Fixed an issue where the armor icon was always visible. It no longer appears if you don't have armor.
+• Reset Hud positions button has been added.
+• You can now see your money at the top right if you want! Settings menu to toggle on and off
+• Cinematic mode can be toggled via F4 button, OR in the HUDs settings.
+• The sizes for 2k and 4k resolutions have been reorganized, and we will soon support them for dragging around.
+• Fixed issue with mods and staff members not able to access /hudsettings. Has been repaired for everyone to use!
 
-MARKET STATION
-• Market Station is now marked on the map with an M so you know where your friends will be at once they fly in!
-• Added car rental to the inside of the market station. Simply walk up to the ped, and you can rent a car!
+CLOTHING
+• Massive optimization on the clothing! We did have to drop a few items but not too many! With still a vast amount of clothes to choose from, and more coming, we will continue to monitor items that are just poorly optimized and drop them or optimize them!
+• We did already shift the clothes, so some clothes shifted to new numbers as we take the end of the clothes and fill the spots we deleted. This is a very clean way to ensure you dont miss anything, and we ensure your experience is optimized!
+• Cosmic optimized the clothing from 4 GIGS, to 1.3 GIGS. That makes the heart happy! We will also work with our partners at PW to ensure they dont see anything else that we might have missed!
+• Added 1 Pant Model for Women that they highly requested as well as a bear bag for them.
 
-TRUCKING
-• Updated trucking contract pools. Now every other day, it will go through a loop and find the higher contracts and get rid of them. This hopefully curves the amount of high tier contracts.
-• Lowered contract generation to 5 minutes.
-• Updated urgent cargo probability by half.
-• Max contracts buffed to 60
+CHARACTER SELECT/MULTI CHARACTER
+• After working on the current character select ive decided to still work on the current one, but for now, ive re-done the 2.0 character select and have moved it in!
+• Added arrow keys in the bottom right to tell user to use arrow keys to cycle through selection.
+• When deleting character, it now wipes all data from that character.
+• Fixed issue with last number on the month bugging character creation.
+• Added car to the scene that you can change out if you would like! Do command: `mycharacter` to change car to one of your own cars!
+• Added support for slower PCs to wait 10 seconds to load character to help with crashing on Slower End PCs :among_dead: 
 
-LS RIVER
-• Fixed flying trees
+LOCKPICKING
+• Updated lockpick minigame and hotwire minigame.
+• Adjusted this so its only 3 locks to lockpick instead of 4, and then we changed hotwire from 2 to 1!
+
+CHARCTER SELECT
+• Brought back the character select, and made it so you can select position and such again!
+• When making a new character, you now get a phone, lockpicks, waters, sandwiches, and even cigarettes!
+• A new screen populates to the new players, letting them know some stuff about Rogue, like their third target, keybinds, job center, and more!
+
+LIVE VEHICLE TUNING
+• Finished out UI touch up and finishing testing in the live server, and then we will start to tune cars much, MUCH faster. 
+
+YOUTOOL
+• Can get bleach wipes to clean up blood now from YouTool. Have a flash light so you can see the blood splatters and then hit E when the prompt comes up!
+
+WEED GROWING
+• Adjusted XP so now all the XP is given to you at the end of harvest instead of through out the process. This ensures you actually crop the plant before given the XP. (Yes Im adding the XP to the labs give me like 2 days and itll be done. Im working on the logic right now for mechanics as well!)
+
+LUMBERJACK
+• Instead of 20 minutes for trees to re-spawn, its now 8 minutes.
