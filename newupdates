@@ -1,5 +1,112 @@
 THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
+VANGELICO ROBBERY
+• Fixed issue where Big Jem was available on loud approach. This was not intended, and is only intended to be there when you hit the heist the silent way.
+• Fixed an issue with the computer making u freeze while in the progress bar sometimes.
+• Fixed an issue where people are able to do the keypad multiplayer game without needing another player.
+• Fixed issue where you could not sell the big gem from the case + added all items from job to pawn shop. This means this job could be great for materials that you want, or a cash out, whatever you decide!
+• Buffed payouts. This job pays out very well, and is 100% worth the hit.
+• Did some optimization & cleaned up the code
+• Fixed an issue with counting cops
+• Reduced Heist cooldown by 15 minutes.
+• Alarm now shuts off after 7 minutes to avoid be annoying
+• Unique item dropped in robbery was buffed to dropped 2x more frequently, making robbery progression more manageable.
+• XP drops buffed.
+
+FLECCA BANK ROBBERIES
+• Systems were tested in live environment and are all good to go on banks!
+• Silent and loud approaches are working. Loud you will get less loot.
+• Buffed payouts. This job pays out very well, and is 100% worth the hit.
+• Increased drop rate of unique item making robbery progression more manageable.
+• Did some optimization & cleaned up the code
+• Fixed an issue with counting cops
+• Updated vault mini game slightly.
+• Items used in robbery are good till they break OR seized by police. Meaning if I have the required items to hit a bank, and successfully do so, I could use the same items in my next robbery without having to craft them. They last for 7 days!
+
+STORE ROBBERIES
+• Instead of 1 bag, now two bags drop! Bags also can stack now! This helps in making robbery progression more manageable.
+• Buffed Payouts min and max by 200%.
+• Sticky note was dropping at a weird rate, and now is minimalized to allow the actual hacking of the store to happen.
+• Trojan USB registered for the back computers.
+• Update mini game for lockpicking the locations in the back.
+
+PAWN SHOP
+• Pawn shop now will buy an array of things! Everything from stolen goods from houses, stolen jewelry, to legal basic items. They will buy it all!
+• The UI now has 4 options instead of two to seperate the items into categories.
+• Categories are stacked showing player whats the most valuable in each section.
+• All items from vangelico can be sold here including big gem!
+• All items from house robberies including props can be sold here.
+
+GARAGES
+• Started to add UI elements like Car pictures to the UI. Will continue to evolve the look and feeling of the UI over time!
+• Added logs for staff to make things easier.
+• Hide player names in transfers list
+• Added new watermark
+• Improved vehicle spawning errors and adjusted logic to hopefully limit the times vehicles are cleaned up.
+• Fixed ability to select UI elements
+• Fixed impound spam bug
+• Supressed "no object by ID" in the F8 console
+• Major improvements to performance at high player counts!
+• Attempted to save the damages and apply damages twice when pulling out in hopes that it can prevent some scuffs that happen here and there.
+
+PHONE
+• Massive phone update with some nice Quality of Life stuff as well as some new features!
+• Notifications on the phone will auto delete after 1 week.
+• Dark Chat app no longer accessible by police or EMS on duty.
+• In the companies app, employees can now go on and off duty.
+• In the companies app, bosses can now deposit, withdrawal funds, hire, fire, and promote employees from their phone.
+• Improved battery on phones by 150% so they should last a little longer.
+• Improved charging by 150% so they should charge faster.
+• If the phone is closed and not up, it will no longer loose any batter. #2024
+• Can now transfer up to 300K on the phone, instead of 100K.
+• Now when players create a character and connect to the city, it will automatically set them up an email account!
+• Now when the player closes the phone, it will end the InstaPic Live.
+• Now when tweeting, you will see a notification on the phone for it for EVERYONE, even if not following. This was highly requested in reference to the chat birdy as well. This allows more RP to be happen, as everyone will see the tweet, making it easier to know when things are open, events are happening, etc. Remember you can turn this off in your settings under notifications.
+• Twitter And Yellow Pages come already downloaded on the phone now!
+• Fixed a bug where you were able to create an account without a display name in instapic
+• Fixed a bug where the sign-out button wouldn't be visible at some times.
+• Housing now features your houses with the new 3.0 housing on your phone! Give keys, set way points, etc.
+• Dis-continued phone look up app based on feedback from community.
+• Tons of bugfixes in the messages app, mostly UI.
+• If you get a missed call from a person you haven't had a conversation with earlier, the recent message won't be empty.
+• If you open someone's location and have them as contact, it'll now display their name instead of number in the maps app.
+• Some misc. bug fixes in the wallet app
+• Fixed a bug that would cause you to get notifications from apps you don't have installed
+• You can now scroll between the airdrop users.
+• Minor UI fixes in Mail App
+• UI Improvements in Notes. Also fixed a bug where a massive scrollbar would appear if you had a big enough note
+• Impound state is now showed in the garage app
+• Garages now feature your cars and are syncd with garages.
+• Fixed a bug where you weren't able to change the phone name in settings
+• Performance improvements in the settings app.
+• Video Call improvements, should fix all the issues with changing microphone volume
+• Fixed a bug where if calling and caller hangs up, callee will play animation putting down phone even though they did not have the phone open
+• Fixed a bug where sending voice messages & attachments without a message wouldn't work.
+• Death logic has been reworked to be more performance-friendly
+• The music waveform in the dynamic island & lock screen has been re-implemented and is now working as it should
+• Welp that was a fun rabbit hole. Im sure you didnt read all of it
+
+MASSIVE IMPROVEMENTS TO DEALERSHIPS
+• Fixed server queries being run in background too often causing hitches (optimization is huge, we noticed this last night and thats actually what started this entire update!)
+• Fixed ESX blips/textUI when changing jobs
+• Fixed plate not being added to props
+• Updated logs for staff to be more cleaned up and sectioned out to easily manage
+• Fixed /directsale UI to reflect the values correctly
+• Fuel & Key clean up and integrations
+• Fixed Vehicles randomly getting deleted
+• You now require a license to view vehicles and make purchases. Need a Moto licnese for Western, and Drivers License for all other
+
+BLIPS
+• Major clean up of the map, and blips that appear on it. Much more cleaned up and different colors to represent certain elements.
+
+GARAGES
+• Fixed issue with personal, house, and single garages that arent public. It was preventing cars from being pulled out.
+
+EMS
+• Updated death screen to have more immersive verbiage and more RP fitting
+• Fixed some issues with holding E to see the light
+• Adjusted check in price from 3K to 1.2K
+
 HUD
 • The map can now be activated even outside the vehicle. There is a setting on the Settings page. You can also do command `/mapon` or `/mapoff`
 • Engine health has been added as a bar.
