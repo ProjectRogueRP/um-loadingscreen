@@ -1,57 +1,67 @@
 THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
-2/26/24 EVENING UPDATE LOG
+MINING
+• Completely redesigned the logic for stone creation and respawn, resulting in improved performance, especially on large servers.
+• Removed respawn time for stones. Now, when processed or destroyed, a new type of mineral is randomly selected, and they respawn automatically at the base stone.
+• Optimized and synchronized 100% with player actions. If a player disconnects, their pickaxe disappears along with them.
+• Notifications will appear on screen when approaching a mineral or interactable objects, showing the available action.
+• Fixed the possibility of script bugs when stopping work while loading a stone.
+• Solved an issue that allowed players to see markers not intended for them.
+• Corrected various errors causing WARNING alerts in the console and issues in F8 Consoles
+• Resolved a problem that rendered a stone unusable if a player died while mining.
+• The base stone no longer explodes or disappears upon completion of mineral collection.
+• Enhancements to the stone illumination system, with more attractive visual effects when approaching.
+• Stones must now be directly taken to the conveyor belt, eliminating excessive events
+• Fixed a bug causing pickaxe breakage not working as expected.
+• Fixed a bug when you modified the durability penalty, your character wouldn't stop mining.
+• Fixed a bug where the stone was always busy and couldn't be mined.
+• Fixed a bug not letting the player mine saying it was already performing an action.
+• Server resource optimization implemented.
+• Fixed a bug causing the ores not becoming available again when a person disconnected/crashed while mining.
+• Fixed a bug causing the ores not becoming available again when a person drop an ore and disconnected/crashed.
+• Fixed a bug that caused crashes when miners left the mining zone.
+• Fixed a bug related to playerDropped event.
+• Sure I am missing something but here you go!
 
-If you attended our community meeting you heard a lot of great feedback given last night! Like always I like to hit the ground running and why not release a STUPID BANGER to start March Off Right? More to come however this was a lot of the stuff we heard that we fixed right away, with the rest hopefully finished out within the next 7 days! :slight_smile:
+MAPS
+• Cleaned up textures on Sandy PD that were un-optimized. Was able to increase FPS around the building as well.
+• Fixed collisions between Sandy Bar, Strip Mall, and the New PD and Hospital. 
+• Fixed up the Sandy strip mall parking lot and removed all old props from conflicting maps that were making weird tress and grass show up all over it. Sandy is really coming alive!
 
-RECYCLING
-• Updated Recycling for Screw Driver Sets. Now gives 2, 2, 2 meaning 6 tools each set.
-SHOCKING SOLUTIONS
-• Shocking solutions updated and buffed. Now have a 75% chance at getting mats instead of 40% and buffed material drops universally by 200%!
-BOOSTING
-• C class updated to now feautre a less overhead in coins invested into C class. before you had the chance to basically pay 14 coins and get 14 coins. Now you are gurnateed profits of AT LEAST 5 coins if not much more!
-CONSTRUCTION
-• Material Drops were buffed and are in a solid spot we think
-• Screw drivers added into loot pool
-PATCH KITS
-• Patch kits buffed from 50% Engine to 69% Engine
-MECHANICS
-• Re-wrote the logic to now feature the pricing coming from society. This means when a custom comes in and orders parts, the money will be charged to the business. Mechanics NEED to charge customers the money themselves, and they will get 10% of the money charged to the customer. Ensure you are adding numbers correctly and such of course!
-ITEMS WHILE DRIVING
-• Fixed issue with bandages, All Edibles, and Smokeables from dispensaries, etc. to now allow players to drive while consuming these products.
-• Fixed issue with Rim Jobs now allowing player to drive or move while consuming as well!
-TRUCKING
-• Fixed issue with Trucking images breaking due to discord. Now on Imgur.
-CLOTHING
-• Reverted and started fresh with clothing issue starting to come in. Fixed all known issues that I could see.
-• Added some more clothing for females for missing spots, as well, added a couple more jackets for the hairs that we had to drop since they were insane polys.
-• Fixed a couple males clothing that were throwing invalid errors!
-WALLETS
-• Wallets now carry 0KG items. All licenses made to be 0KG as well, money was already 0KG.
-TO GO BAGS
-• To go bags streamlined to be $15 accross the board!
-WEED SEEDS
-• Reduced weight in weed seeds
+HOUSE ROBBERIES
+• Updated house robberies and tested to ensure quality. We spent well over a day of coding this to ensure it was working properly based on your feedback! This is Phase 1 of House Robberies. SO WE WANT MORE FEEDBACK. Below is what we have done so far! 
+• Times adjusted. Now get an extra 4 hours a day to rob houses!
+• Minigames changed from basic circle to new lockpick minigame!
+• No longer will you loose lockpick if you successfully lockpick the door. There used to be a small 10% that you would.
+• If you fail, its not longer 100% lockpick lost. Now its an 80%.
+• Dogs, and Peds syncd and should actually appear now.
+• Houses reset after 12 minutes instead of 15. We are testing this to see if this helps resetting houses faster for higher levels!
+• Level 9 has 3 robberies for it, however we plan to add more in Phase 2 to be over 7-8 robberies in this tier.
+• All XP drops were buffed, meaning not SO MANY robberies have to be done to climb the ladder (still gotta work for it though)
+
+DRUGS
+• Access cards adjusted to last 7 days instead of 4 days.
+
+BANK ROBBERIES
+• Buffed Payouts
+
+STORE ROBBERIES
+• Buffed Store Robbery cash drop. 
+• Clean cash drops instead of dirty.
+
+ATM ROBBERIES
+• Dramatic buff to payouts. 
+
+CRAFTING
+• Updated 23 recipes to lower the amount of circuits it required.
+• Updated over 60 recipes nerfing the needed hammers, wrenches and screwdrivers.
+
 INVENTORY
-• Some misc clean up. Nothing really exciting for you guys besides better optimization and syncing between clients to the server! :slight_smile:
-TARGET
-• Your third target interface was once again re-done and think it looks awesome! Very fluent and like the cadcading window now instead of the radial options that it was doing. Check it out!
-PROGRESS BARS
-• Updated progress bar UI and gave it a fresh update! Think it turned out great! Check it out!
-JOB APPLICATIONS
-• Major UI Change! Now flows nicely like the new Documents UI!
-• Code Refactored
-• Improved Cooldown Feature on Rejected Applications
-NEW IN CITY DOCUMENTS
-• A video will be much better lots to cover! Check the video covering our new in city documents here: https://www.youtube.com/watch?v=YiGoMt2Mp5A&t=42s
-GUN DAMAGES
-• Gun damages updated based upon community feedback! We think you will love the new set ups!
-CAR PLAY
-• Added UI Resizer in Car Play Settings
-• Adjusted Music Distance from outside
-MULTI CHARACTER
-• The 3.0 Multicharacter retunrs re-written! Now offers a much more smooth experience and deleting character deletes all your tables from our database now!
-LOGGING IN
-• Update video and intro song for this update as it feels awesome!
-NVE GOES SERVER SIDE
-• NVE and Vegetation now live in Project Rogue! Check #📢announcements for NVE removal protocol and ReShade. We cant wait to show you what this update!
+• Decreased weights on all weed seeds, gun barrels, circuits, old phones and old laptops.
+
+GRAPHICS OPTIMIZATION
+• We took out a majority of the textures and vegetation models, however we kept a few to see if they could still make some of the stuff look better.
+• NVE Is still server sided. However we did see an FPS increase, so we might have found a nice balance between nice graphics while maintaining an optimized performance
+• Graphic wise, things should still look much better then the base game, and this should still feel newer then them old 2013 graphics.
+• Fixed Sandy Mall
+• Fixed River. Should be fixed
