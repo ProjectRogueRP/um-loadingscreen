@@ -1,67 +1,90 @@
 THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
-MINING
-• Completely redesigned the logic for stone creation and respawn, resulting in improved performance, especially on large servers.
-• Removed respawn time for stones. Now, when processed or destroyed, a new type of mineral is randomly selected, and they respawn automatically at the base stone.
-• Optimized and synchronized 100% with player actions. If a player disconnects, their pickaxe disappears along with them.
-• Notifications will appear on screen when approaching a mineral or interactable objects, showing the available action.
-• Fixed the possibility of script bugs when stopping work while loading a stone.
-• Solved an issue that allowed players to see markers not intended for them.
-• Corrected various errors causing WARNING alerts in the console and issues in F8 Consoles
-• Resolved a problem that rendered a stone unusable if a player died while mining.
-• The base stone no longer explodes or disappears upon completion of mineral collection.
-• Enhancements to the stone illumination system, with more attractive visual effects when approaching.
-• Stones must now be directly taken to the conveyor belt, eliminating excessive events
-• Fixed a bug causing pickaxe breakage not working as expected.
-• Fixed a bug when you modified the durability penalty, your character wouldn't stop mining.
-• Fixed a bug where the stone was always busy and couldn't be mined.
-• Fixed a bug not letting the player mine saying it was already performing an action.
-• Server resource optimization implemented.
-• Fixed a bug causing the ores not becoming available again when a person disconnected/crashed while mining.
-• Fixed a bug causing the ores not becoming available again when a person drop an ore and disconnected/crashed.
-• Fixed a bug that caused crashes when miners left the mining zone.
-• Fixed a bug related to playerDropped event.
-• Sure I am missing something but here you go!
-
-MAPS
-• Cleaned up textures on Sandy PD that were un-optimized. Was able to increase FPS around the building as well.
-• Fixed collisions between Sandy Bar, Strip Mall, and the New PD and Hospital. 
-• Fixed up the Sandy strip mall parking lot and removed all old props from conflicting maps that were making weird tress and grass show up all over it. Sandy is really coming alive!
-
-HOUSE ROBBERIES
-• Updated house robberies and tested to ensure quality. We spent well over a day of coding this to ensure it was working properly based on your feedback! This is Phase 1 of House Robberies. SO WE WANT MORE FEEDBACK. Below is what we have done so far! 
-• Times adjusted. Now get an extra 4 hours a day to rob houses!
-• Minigames changed from basic circle to new lockpick minigame!
-• No longer will you loose lockpick if you successfully lockpick the door. There used to be a small 10% that you would.
-• If you fail, its not longer 100% lockpick lost. Now its an 80%.
-• Dogs, and Peds syncd and should actually appear now.
-• Houses reset after 12 minutes instead of 15. We are testing this to see if this helps resetting houses faster for higher levels!
-• Level 9 has 3 robberies for it, however we plan to add more in Phase 2 to be over 7-8 robberies in this tier.
-• All XP drops were buffed, meaning not SO MANY robberies have to be done to climb the ladder (still gotta work for it though)
-
-DRUGS
-• Access cards adjusted to last 7 days instead of 4 days.
-
-BANK ROBBERIES
-• Buffed Payouts
-
-STORE ROBBERIES
-• Buffed Store Robbery cash drop. 
-• Clean cash drops instead of dirty.
-
-ATM ROBBERIES
-• Dramatic buff to payouts. 
-
-CRAFTING
-• Updated 23 recipes to lower the amount of circuits it required.
-• Updated over 60 recipes nerfing the needed hammers, wrenches and screwdrivers.
+AUGUST COMMUNITY MEETING UPDATE
 
 INVENTORY
-• Decreased weights on all weed seeds, gun barrels, circuits, old phones and old laptops.
+• Added ability to limit items to only one in an inventory. This is good for items like "bags" and such that we might bring in the future. Huge addition to the inventory!
+• Added ability to stack items with different degrade and also fixed issue with these items only giving one when giving away a stack. Huge addition to the inventory! (This happened due to the items not reading correctly when giving away a stack and checking for items.)
+• Certain items like `Trojan USBs` for instance, are items that do **NOT** stack regardless of durability or not. Items like water **can stack**. So even if they are approx. 10%-12% different in degrades, you will be able to stack these items and clean your inventory up!
+• Again this is a game changer, its just so so so good for the city, and were glad to stabilize everything for the time being!
 
-GRAPHICS OPTIMIZATION
-• We took out a majority of the textures and vegetation models, however we kept a few to see if they could still make some of the stuff look better.
-• NVE Is still server sided. However we did see an FPS increase, so we might have found a nice balance between nice graphics while maintaining an optimized performance
-• Graphic wise, things should still look much better then the base game, and this should still feel newer then them old 2013 graphics.
-• Fixed Sandy Mall
-• Fixed River. Should be fixed
+CONFISCATED ITEMS
+• Updated menu to drop the old out dated menus and updated to our new UI layouts! 
+
+FOOD SPOTS & GROCERY STORES
+• Food locations no longer take away stress. After a long time thinking about it, we really needed to remove stress from food items as the weed shops are useless with so many destress options.
+• Gas stations now offer food still, but its much better to shop at a restaurant and or food joint then shopping from AI shops.
+• All restaurants now offer more food consumption for hunger and thirst, meaning most meals from restaurants will essentially fill you plenty up for hunger and thirst with some left over making shopping these locations much better then public options.
+• Players can still get their own food from stores but it will never amount to the food joints. This encourages people to roleplay with these businesses instead of doing everything yourself.
+• Pizza This improved progress bars by a little bit, but not much!
+• Mochi was giving thirst and hunger when it was only supposed to give hunger. This was patched.
+
+WEED SHOPS
+• Weed shops consumables and smokable's now all over stress relief and a tiny bit of armor. Nothing crazy but its something!
+• Weed shops now are the main source for de-stressing in the city. We want to ensure all locations offer an expertise and make all business competitive in their own fields. Food locations will now center around hunger and thirst and weed shops will offer stress relief and a tiny bit of armor
+• Players can still grow their own weed but it will only ever destress them and even at that, will never amount to the dispos. This encourages people to roleplay with these businesses instead of doing everything yourself.
+
+DISPATCH
+• Updated dispatch calls and dropped un-needed information
+• Dropped car jacking calls per there request.
+• EMS will no longer get calls if players are downed and hit G while in paintball.
+• EMS and Police can now do `/311s` or `/911s` after they have attached to a call, to send a message to the person calling in! This was highly requested!
+
+RECYCLING
+• There are now 5 recycling centers instead of 1! Happy hunting.
+
+MISC
+• Burner phones now last 3 more days for degrade
+
+CLOTHING
+• Added gang pocket flags to decals for men as well
+
+TRUCK ROBBERIES
+• Buffed Payouts for Truck Robberies by 2x
+• Buffed Buying Price for gold bars and diamond trays for the pawn shop
+
+YOGA
+• We have now made Yoga mats that will allow you to destress and do an activity to destress!
+• Simply buy a yoga mat and get your yoga on!
+• Use the yoga may anywhere you want and start to relax!
+• Skill check and immersive sounds make it super relaxing and destressing for you and your friends!
+• Once done simply third eye the mat and pick it back up!
+• Check #📸teasers for video of the Yoga Mats.
+
+DISPENSARIES
+• Dispensaries now have their own branded vehicles for deliveries and events! They will need to use these vehicles when doing those deliveries. If you do not, you will waste your time just a heads up!
+• Now you will start deliveries at the computer terminal, and then pick up your tickets at your vehicle spawners by third eyeing the truck! Don't forget to grab a ticket by hitting E on the ped outside the vehicle spawner!
+• Updated Puff Puff and White Widow to now feature a selection menu when ordering supplies. This allows them to evenly supply their locations with products and fill the supply and demand! Check #📸teasers for more information and a look at it!
+
+HUNTING
+• We have given the vehicle that is given with the job max upgrades and armor for you guys hunting.
+• Remember when vehicles are given to you, you are supposed to use them! Don't waste your time!
+• Added progress bars and animation to the skinning of the animal and drooped 3 seconds off the wait time.
+• Car keys are now removed upon ending the job
+
+MISC
+• Studio Lights nerfed 10K
+• Fixed drug selling breaking at last nights tsunami. This was repaired at 3AM.
+• Fixed police MDT that caused reports and incidents to break. This was repaired on the fly and already pushed live.
+
+GARAGES
+• Added two more boat garage in sandy and Paleto
+
+CLOTHING
+• Fixed males gang flag in decals. Was having a weird checkered texture on it. Shouldn't be there anymore.
+• Pushed multiple misc. projects
+
+DEALERSHIPS
+• Western move opening catalogue to row of bikes
+• All dealerships shortened distance between player and distance to markers to avoid overlapping door locks, etc.
+
+POLICE DISPATCH
+• Fixed issue with police dispatch returning cars stolen sometimes and limited information to basic dispatch calls. You can hit O to view the complete call!
+• When EMS or Police do `/311s` the notification shows up to the caller now in the center right of your screen and displays for 30 seconds. The notification is just a basic notification, so please pay attention! We also added a little sound effect that plays when getting it as well!
+
+OTTERS
+• Attempted to remedy the situation with vehicles spawning in the lot. It should check the area and pick up the vehicle spawns making it so that the locals do not choose those spots anymore! Please let us know if this fixes the situation if you are at Otters! 
+• Extended Storages for everything. Main storage, managers, safe, and lockers
+
+REPORT MENUS
+• Fixed issue with `/report` command! This is working properly once again! Sorry for the down time!
