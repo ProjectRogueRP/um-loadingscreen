@@ -1,90 +1,83 @@
 THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
-AUGUST COMMUNITY MEETING UPDATE
+WEEK OF AUGUST 5TH
 
-INVENTORY
-• Added ability to limit items to only one in an inventory. This is good for items like "bags" and such that we might bring in the future. Huge addition to the inventory!
-• Added ability to stack items with different degrade and also fixed issue with these items only giving one when giving away a stack. Huge addition to the inventory! (This happened due to the items not reading correctly when giving away a stack and checking for items.)
-• Certain items like `Trojan USBs` for instance, are items that do **NOT** stack regardless of durability or not. Items like water **can stack**. So even if they are approx. 10%-12% different in degrades, you will be able to stack these items and clean your inventory up!
-• Again this is a game changer, its just so so so good for the city, and were glad to stabilize everything for the time being!
+PHONE
+• We've completely rewritten the code for how the apps are being managed. The app state should now be stored upon closing the app / turning off the phone, so you can start off exactly where you stopped.
+• Newly added App Switcher, hold on the home button and slide it up slightly and you'll be able to see all the recently visited apps, where you can choose to completely close them, or reenter them in their prior state.
+• We've given the apps a fresh new UI, and improved user navigation.
+• The following apps have been redesigned: Settings, Camera, Notes, Apps (store), Weather, Calculator, Wallet, Clock, Mail, Voice Memos, Phone app, Messages, Photos, Pages, MarketPlace, DarkChat
+• The services app has been completely redesigned to a more user-friendly & colorful UI, with plenty of new features.
+• You can now see all the hired employees & call/message them by clicking on the company in the home view.
+• Employees can now delete old message conversations by holding on the message conversation 
+• Messages are now separated by 2 tabs, "Personal" & "Job"
+• A lot of states have been rewritten using another system in order to save more on performance.
+• New cache has been implemented
+• Should be more optimized than ever, feel free to give feedback.
+• The Call UI has received a new look.
+• You can now toggle video calls during a call! This means no more hanging up to go on video!)
+• The setup screen has received a new look, and is more user-friendly.
+• Fixed plenty of bugs that had to do with the setup process.
+• The control center has received a completely new look.
+• Proper animations when opening the control center. You can now drag down the notch to slowly open the control center.
+• You can now change password & delete your account on every social media platform.
+• You can now disable your Spark account, when disabled you won't appear in others' feeds, and neither will you be able to swipe. Stay loyal kings and queens :rofl: 
+• The Darkchat app has been rewritten with new features and a slightly different design. You now have a login instead of just a set username. This means that you can have multiple accounts as in every other app.
+• New card design in the wallet app!
+• You can now see all transactions in the new tab, simply press the "All transactions" button. It's grouped by each day.
+• Fixed plenty of bugs related to the wallet app.
+• The Marketplace and Pages apps have received a new, more modern UI. Same features as before (with slight changes), but a more welcoming UI.
+• The lock screen has been slightly redesigned, main features are the following: 8 new fonts for the clock, simply hold on the time and you'll be welcomed by a lock screen editor.
+• You can change the layout of the clock in the lock screen editor, and choose between 4 different layouts.
+• The notch is now being used when receiving AirShare.
+• The GIF Picker has been rewritten, now introducing categories for all the GIFS, and the ability to save gifs as favorites for easier access.
+• All components have been re-designed to comply with FiveM's ToS, giving them a new & fresh look.
+• The following components have received a redesign: Popup, Context menu, Color picker, Share, Photo selector, Calls, Timer, Lockscreen editor, Contact selector, GIF Selector
+• Removed copyrighted in-app icons and replaced them with non-copyrighted ones.
+• You're now able to have multiple backups, instead of just one.
+• Implemented a live waveform when recording a voice message in the messages app.
+• A bunch of bugfixes and minor redesigns
+• New inventory item image for the new re-design.
 
-CONFISCATED ITEMS
-• Updated menu to drop the old out dated menus and updated to our new UI layouts! 
+VEHICLE DAMAGES AND GARAGES
+• You should notice a great shift today in damages! Cars when pulled out of the garage should stay consistent in damages now! Please let us know if you experience your vehicle comes out damaged more or less then it was before. Should be completely fixed!
+• Damages were smoothed out a bit more and hits should feel better. Please continue to give us a feedback, only way we can imrpove! :heart: :slight_smile:
 
-FOOD SPOTS & GROCERY STORES
-• Food locations no longer take away stress. After a long time thinking about it, we really needed to remove stress from food items as the weed shops are useless with so many destress options.
-• Gas stations now offer food still, but its much better to shop at a restaurant and or food joint then shopping from AI shops.
-• All restaurants now offer more food consumption for hunger and thirst, meaning most meals from restaurants will essentially fill you plenty up for hunger and thirst with some left over making shopping these locations much better then public options.
-• Players can still get their own food from stores but it will never amount to the food joints. This encourages people to roleplay with these businesses instead of doing everything yourself.
-• Pizza This improved progress bars by a little bit, but not much!
-• Mochi was giving thirst and hunger when it was only supposed to give hunger. This was patched.
+CRITICAL FIXES
+• Fixed issue with minigames and reverted progress bars. Everything should be working very smoothly once again! Sorry for this to the afternoon peeps!
+• We've proceeded to apply adjustments to the servers back end which can improve the connection quality and reachability for some users in some cases!
 
-WEED SHOPS
-• Weed shops consumables and smokable's now all over stress relief and a tiny bit of armor. Nothing crazy but its something!
-• Weed shops now are the main source for de-stressing in the city. We want to ensure all locations offer an expertise and make all business competitive in their own fields. Food locations will now center around hunger and thirst and weed shops will offer stress relief and a tiny bit of armor
-• Players can still grow their own weed but it will only ever destress them and even at that, will never amount to the dispos. This encourages people to roleplay with these businesses instead of doing everything yourself.
+BCSO GETS A NEW HOME (again)
+• Welcome BCSO to your new home! Found in the heart of Sandy and located on the map, is a BEAUTIFUL place to call home!
+• Adding locks live when server comes up! Please dont open tickets of no locks. Not a bug.
+• Added evidence to basement area
+• Added finger print station, mug shot station and evidence processing center.
+• Added ped so players can collect jail items if needed.
+• Added repair bays to the garage!
+• Added garage and parking to the lot behind gate for police cars.
+• Added garage and parking to the front lot for non police officers/civilians. it can be found at the end of the parking spaces.
+• Added Landing Pad for Helicopters + Added spawner!
+• Added Applications management and Apply stations to the front and boss office.
+• Added Boss management systems for funds, hiring, firing and promoting
+• Added Personal Lockers to locker room
+• Added BCSO Recycled equipment hand in to the front desk of the armory
+• Added Fridge Armory and Field Kits!
+• Added changing room and barber to Lockers
+• Added Help Desk to the front desk.
+• Im sure im missing something but its completely decked out and ready to go! Welcome home BCSO (**you aren't moving ever. we ARE DONE** :rofl: )
 
-DISPATCH
-• Updated dispatch calls and dropped un-needed information
-• Dropped car jacking calls per there request.
-• EMS will no longer get calls if players are downed and hit G while in paintball.
-• EMS and Police can now do `/311s` or `/911s` after they have attached to a call, to send a message to the person calling in! This was highly requested!
+LOADING IN
+• Temporarily changed intro song till our song competition completes
 
-RECYCLING
-• There are now 5 recycling centers instead of 1! Happy hunting.
+PROGRESS BARS
+• Updated UI of the progress bars to make them a bit more unique.
 
-MISC
-• Burner phones now last 3 more days for degrade
+POLICE
+• Updated Bravado SXT. Fixed issue with LSPD losing their livery.
 
-CLOTHING
-• Added gang pocket flags to decals for men as well
+HOUSING
+• Added images to the furniture recently added! All furniture now align and have images and are working as intended
 
-TRUCK ROBBERIES
-• Buffed Payouts for Truck Robberies by 2x
-• Buffed Buying Price for gold bars and diamond trays for the pawn shop
 
-YOGA
-• We have now made Yoga mats that will allow you to destress and do an activity to destress!
-• Simply buy a yoga mat and get your yoga on!
-• Use the yoga may anywhere you want and start to relax!
-• Skill check and immersive sounds make it super relaxing and destressing for you and your friends!
-• Once done simply third eye the mat and pick it back up!
-• Check #📸teasers for video of the Yoga Mats.
-
-DISPENSARIES
-• Dispensaries now have their own branded vehicles for deliveries and events! They will need to use these vehicles when doing those deliveries. If you do not, you will waste your time just a heads up!
-• Now you will start deliveries at the computer terminal, and then pick up your tickets at your vehicle spawners by third eyeing the truck! Don't forget to grab a ticket by hitting E on the ped outside the vehicle spawner!
-• Updated Puff Puff and White Widow to now feature a selection menu when ordering supplies. This allows them to evenly supply their locations with products and fill the supply and demand! Check #📸teasers for more information and a look at it!
-
-HUNTING
-• We have given the vehicle that is given with the job max upgrades and armor for you guys hunting.
-• Remember when vehicles are given to you, you are supposed to use them! Don't waste your time!
-• Added progress bars and animation to the skinning of the animal and drooped 3 seconds off the wait time.
-• Car keys are now removed upon ending the job
-
-MISC
-• Studio Lights nerfed 10K
-• Fixed drug selling breaking at last nights tsunami. This was repaired at 3AM.
-• Fixed police MDT that caused reports and incidents to break. This was repaired on the fly and already pushed live.
-
-GARAGES
-• Added two more boat garage in sandy and Paleto
-
-CLOTHING
-• Fixed males gang flag in decals. Was having a weird checkered texture on it. Shouldn't be there anymore.
-• Pushed multiple misc. projects
-
-DEALERSHIPS
-• Western move opening catalogue to row of bikes
-• All dealerships shortened distance between player and distance to markers to avoid overlapping door locks, etc.
-
-POLICE DISPATCH
-• Fixed issue with police dispatch returning cars stolen sometimes and limited information to basic dispatch calls. You can hit O to view the complete call!
-• When EMS or Police do `/311s` the notification shows up to the caller now in the center right of your screen and displays for 30 seconds. The notification is just a basic notification, so please pay attention! We also added a little sound effect that plays when getting it as well!
-
-OTTERS
-• Attempted to remedy the situation with vehicles spawning in the lot. It should check the area and pick up the vehicle spawns making it so that the locals do not choose those spots anymore! Please let us know if this fixes the situation if you are at Otters! 
-• Extended Storages for everything. Main storage, managers, safe, and lockers
-
-REPORT MENUS
-• Fixed issue with `/report` command! This is working properly once again! Sorry for the down time!
+@roguen
+**To be notified on all Project Rogue Roleplay updates, news, new content, etc. grab the Rogue Notify role today to get notified of everything that's going on here at Rogue**! You can get this role here: #auto
