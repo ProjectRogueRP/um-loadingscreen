@@ -1,79 +1,43 @@
 THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
-WEEK OF AUGUST 5TH
+WEEK OF AUGUST 26TH
 
-PHONE
-• We've completely rewritten the code for how the apps are being managed. The app state should now be stored upon closing the app / turning off the phone, so you can start off exactly where you stopped.
-• Newly added App Switcher, hold on the home button and slide it up slightly and you'll be able to see all the recently visited apps, where you can choose to completely close them, or reenter them in their prior state.
-• We've given the apps a fresh new UI, and improved user navigation.
-• The following apps have been redesigned: Settings, Camera, Notes, Apps (store), Weather, Calculator, Wallet, Clock, Mail, Voice Memos, Phone app, Messages, Photos, Pages, MarketPlace, DarkChat
-• The services app has been completely redesigned to a more user-friendly & colorful UI, with plenty of new features.
-• You can now see all the hired employees & call/message them by clicking on the company in the home view.
-• Employees can now delete old message conversations by holding on the message conversation 
-• Messages are now separated by 2 tabs, "Personal" & "Job"
-• A lot of states have been rewritten using another system in order to save more on performance.
-• New cache has been implemented
-• Should be more optimized than ever, feel free to give feedback.
-• The Call UI has received a new look.
-• You can now toggle video calls during a call! This means no more hanging up to go on video!)
-• The setup screen has received a new look, and is more user-friendly.
-• Fixed plenty of bugs that had to do with the setup process.
-• The control center has received a completely new look.
-• Proper animations when opening the control center. You can now drag down the notch to slowly open the control center.
-• You can now change password & delete your account on every social media platform.
-• You can now disable your Spark account, when disabled you won't appear in others' feeds, and neither will you be able to swipe. Stay loyal kings and queens :rofl: 
-• The Darkchat app has been rewritten with new features and a slightly different design. You now have a login instead of just a set username. This means that you can have multiple accounts as in every other app.
-• New card design in the wallet app!
-• You can now see all transactions in the new tab, simply press the "All transactions" button. It's grouped by each day.
-• Fixed plenty of bugs related to the wallet app.
-• The Marketplace and Pages apps have received a new, more modern UI. Same features as before (with slight changes), but a more welcoming UI.
-• The lock screen has been slightly redesigned, main features are the following: 8 new fonts for the clock, simply hold on the time and you'll be welcomed by a lock screen editor.
-• You can change the layout of the clock in the lock screen editor, and choose between 4 different layouts.
-• The notch is now being used when receiving AirShare.
-• The GIF Picker has been rewritten, now introducing categories for all the GIFS, and the ability to save gifs as favorites for easier access.
-• All components have been re-designed to comply with FiveM's ToS, giving them a new & fresh look.
-• The following components have received a redesign: Popup, Context menu, Color picker, Share, Photo selector, Calls, Timer, Lockscreen editor, Contact selector, GIF Selector
-• Removed copyrighted in-app icons and replaced them with non-copyrighted ones.
-• You're now able to have multiple backups, instead of just one.
-• Implemented a live waveform when recording a voice message in the messages app.
-• A bunch of bugfixes and minor redesigns
-• New inventory item image for the new re-design.
+HOUSE ROBBERIES
+• Cooldown between house robberies nerfed by 15 minutes!
+• Updated nicer phone drops. You should find them in all houses now not just 2. We also updated the amount of phones you could get by almost 3x. This should significantly change these drops!
+• Updated drop rate a bit to make the houses make sure its giving you items over the robbery and not have houses that give 1 single item.
 
-VEHICLE DAMAGES AND GARAGES
-• You should notice a great shift today in damages! Cars when pulled out of the garage should stay consistent in damages now! Please let us know if you experience your vehicle comes out damaged more or less then it was before. Should be completely fixed!
-• Damages were smoothed out a bit more and hits should feel better. Please continue to give us a feedback, only way we can imrpove! :heart: :slight_smile:
+CRAFTING
+• Updated crafting recipes to feature a more balance between nicer phone, stolen rPhones!
+• Updated a ton of recipes to drop other items and instead add sPhones! These items now have more use then just selling them!
 
-CRITICAL FIXES
-• Fixed issue with minigames and reverted progress bars. Everything should be working very smoothly once again! Sorry for this to the afternoon peeps!
-• We've proceeded to apply adjustments to the servers back end which can improve the connection quality and reachability for some users in some cases!
+DRUGS
+• Action Figures buffed in price by $250
+• Updated coke fields to now produce double the amount of leaves!
+• Updated coke fields to now feature a 50% less progress bar, meaning 2x faster picking as well!
+• Crack now only will take 3 coke grams instead of 5.
+• Crack mixing timer nerfed by 2 seconds.
 
-BCSO GETS A NEW HOME (again)
-• Welcome BCSO to your new home! Found in the heart of Sandy and located on the map, is a BEAUTIFUL place to call home!
-• Adding locks live when server comes up! Please dont open tickets of no locks. Not a bug.
-• Added evidence to basement area
-• Added finger print station, mug shot station and evidence processing center.
-• Added ped so players can collect jail items if needed.
-• Added repair bays to the garage!
-• Added garage and parking to the lot behind gate for police cars.
-• Added garage and parking to the front lot for non police officers/civilians. it can be found at the end of the parking spaces.
-• Added Landing Pad for Helicopters + Added spawner!
-• Added Applications management and Apply stations to the front and boss office.
-• Added Boss management systems for funds, hiring, firing and promoting
-• Added Personal Lockers to locker room
-• Added BCSO Recycled equipment hand in to the front desk of the armory
-• Added Fridge Armory and Field Kits!
-• Added changing room and barber to Lockers
-• Added Help Desk to the front desk.
-• Im sure im missing something but its completely decked out and ready to go! Welcome home BCSO (**you aren't moving ever. we ARE DONE** :rofl: )
+CLOTHING
+• Fixed issue with hair ties for men applying a weird hair instead of being bald.
+• Fixed misc. issue with some peds getting ruined over night. This was caused by a bad model. Was dropped and fixed them from what I can see!
+• Updated and condensed 3 pairs of men's pants. They were all the same model so we condensed them all into one model.
+• Updated and condensed 2 pairs of men's glasses. They were the same model so we condensed them all into one model.
 
-LOADING IN
-• Temporarily changed intro song till our song competition completes
+VANEGLICO ROBBERY
+• Fixed issue with XP and Gang Notoriety not being given in this heist! Its working as it should now!
 
-PROGRESS BARS
-• Updated UI of the progress bars to make them a bit more unique.
+CHOP SHOP
+• Adjusted cooldown time by almost half, so now you don't gotta wait 30 minutes between chops
 
-POLICE
-• Updated Bravado SXT. Fixed issue with LSPD losing their livery.
+SPAWNING IN
+• Added 3 new spawn points. One to each police stations for VPD, BCSO, and SASP.
 
-HOUSING
-• Added images to the furniture recently added! All furniture now align and have images and are working as intended
+EMS
+• Added barbershop section to their lockers!
+
+GARAGES
+• Added car garages to all the boat garages! Now you can park your car and then hop in your boats!
+
+RULEBOOK
+• Rule 5.6 for Chain Robbing updated to now be a 30 minute timer instead of 45!
