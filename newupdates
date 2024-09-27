@@ -1,43 +1,149 @@
 THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
-WEEK OF AUGUST 26TH
+WEEK OF SEPTEMBER 23RD
 
-HOUSE ROBBERIES
-• Cooldown between house robberies nerfed by 15 minutes!
-• Updated nicer phone drops. You should find them in all houses now not just 2. We also updated the amount of phones you could get by almost 3x. This should significantly change these drops!
-• Updated drop rate a bit to make the houses make sure its giving you items over the robbery and not have houses that give 1 single item.
+DARTS
+• Now the game will cancel when the player dies.
+• Added new context menus and updated targeting.
+• Fixed issue with the problem where you hit the 6 and it only gave you 3 points
+• Fixed a ghost control that was being triggered on game change.
+• Fixed animation sometimes that would not happen
+• Fixed an issue regarding bets
+• Fixed a bug with game shake.
 
-CRAFTING
-• Updated crafting recipes to feature a more balance between nicer phone, stolen rPhones!
-• Updated a ton of recipes to drop other items and instead add sPhones! These items now have more use then just selling them!
+PAINTBALL
+• Fixed getting full health after a kill on one in the chamber game modes.
+• Added radial option to quit the match when in the game! It will remove it once you are done!
+• Made it so that you can not join paintball while downed (yes really. So sad that people literally abuse these things :rofl: So cringe)
+• Optimized and cleaned up code. Small security enhancements
 
-DRUGS
-• Action Figures buffed in price by $250
-• Updated coke fields to now produce double the amount of leaves!
-• Updated coke fields to now feature a 50% less progress bar, meaning 2x faster picking as well!
-• Crack now only will take 3 coke grams instead of 5.
-• Crack mixing timer nerfed by 2 seconds.
+GOLF
+• Now the furthest from the hole each round will shoot first!
+• Now caddys will delete once you leave the golf game.
+• Optimized and cleaned up code. Small security enhancements
 
-CLOTHING
-• Fixed issue with hair ties for men applying a weird hair instead of being bald.
-• Fixed misc. issue with some peds getting ruined over night. This was caused by a bad model. Was dropped and fixed them from what I can see!
-• Updated and condensed 3 pairs of men's pants. They were all the same model so we condensed them all into one model.
-• Updated and condensed 2 pairs of men's glasses. They were the same model so we condensed them all into one model.
+MECHANIC SHOPS
+• Removed nonexistent mods from showing. Meaning that if the car only goes to transmission 3 instead of 4, it should only show that option to 3.
+• LSC utilized the second paint booth, and now you can use both of them for painting.
 
-VANEGLICO ROBBERY
-• Fixed issue with XP and Gang Notoriety not being given in this heist! Its working as it should now!
+MARKETS
+• Made it now so if you dont have enough cash on hand for something, it will just deny the placement, making it not remove the table from your pockets. You can then go get cash, and then place the table down once you have enough money for XYZ amount of time your opening the store for!
+• Potential fix for the props and targets messing up. Were still trying to figure out why after X amount of time they are disappearing.
 
-CHOP SHOP
-• Adjusted cooldown time by almost half, so now you don't gotta wait 30 minutes between chops
+DOCUMENTS
+• Optimized and cleaned up code. Small security enhancements
 
-SPAWNING IN
-• Added 3 new spawn points. One to each police stations for VPD, BCSO, and SASP.
+CAR RADIOS
+• Optimized and cleaned up code. Small security enhancements
 
-EMS
-• Added barbershop section to their lockers!
+JOB APPLICATION SYSTEMS
+• Optimized and cleaned up code. Small security enhancements
+
+HOUSING
+• Apartment storage behaving weirdly like sharing and target stuff
+• MLO Door creation checklist error and completion
+• CCTV placement with raycast causes weird placement. Fixed more stuff with CCTV and the behavior.
+• Save placement opens proper menu back after placing instead of the furniture menu
+• Huge optimization to house loading and house data callbacks. With our 440+ houses tested, we have optimized this information over 6.5x, which is INSANE.
+• Secured event spamming, will drop a player if the event / callback is spammed to protect optimization and performance.
+• `/houseblip` command can be enabled and disabled properly now
+• Fixed weird Wardrobe error in f8
+• Mortgage menu not opening properly
+• Fixed issue with catalogue submit without description and deletion
+• Fixed issue with mobile cataologue for Real Estate Agents.
+• Fixed some other misc. server side bugs that you wouldn't see but I would.
+• Fixed Apartment storage duplicate when moving or creating
+• Fixed Apartment disable buy configuration
+• Fixed Sell apartment refresh properly
+• Fixed Preview apartment
+
+JOB BLIPS
+• Added algorithm for resolving bridge resources automatically
+• Added duty support
+• Fixed invalid error messages on the server side
+• Fixed a few sync issues
+• Fixed isPlayerInDuty issue
+
+FISHING
+• Drooped and disabled the fishing line animation as I am 99% sure that is what causes the weird bug for fishing for some that throws an F8 error causing the user to relog to fish once again. This should no longer happen, please give feedback!
+• Added fishing tournaments! Now every day, randomly, there will be a fishing tournament held by the server.
+• Added command `/fishtournament` to access the scoreboard
+• Users can join a tournament up to 8 hours before the start of the event!
+• There will need to be atleast 8 members of the tournament to start it. If there isnt, tournament will be skipped.
+• Event will be marked on the map, with a blip and you will need to fish within that area for the tournament
+• Prizes for the 1st, 2nd, and 3rd! This includes a gold medal for first place + cash prize and XP prize. 2nd and 3rd will enjoy a cash prize and xp prize as well!
+• Whos gonna be the winner winner chicken dinner?!
 
 GARAGES
-• Added car garages to all the boat garages! Now you can park your car and then hop in your boats!
+• Fixed some exploits found while working on the system
+• Now it prevent vehicle spawn if you are moved from the garage while menu is open
+• Fixed bug where previous garage vehicle names would persist until garage is closed and re-opened
+• Fixed issue where editing a private garage would result in a name taken error.
+• Fixed attempt to index a nil value error when taking a vehicle out of housing
+• Fixed issue where garage coords would cause a comparison error
 
-RULEBOOK
-• Rule 5.6 for Chain Robbing updated to now be a 30 minute timer instead of 45!
+ATM ROBBERY
+• Remove the entire SQL (great optimization)
+• Integrated the emotes
+• Added Bonus items that are possible
+• Cleaned up the code heavily & Optimized the script more
+• Removed unused and dead code
+• Fixed issues with the logs and added detailed logs
+• ATMs now have a jackpot phase now, which gives a small chance that will actually double the loot by 2x!
+
+FLEECA BANK
+• Fixed an issue with trolley logs for staff
+• Fixed an issue with notifications telling you that you got bonus item even though you didn't
+• Fixed an issue with the printer emote getting stuck
+
+PALETO BANK
+• Fixed an issue with the auto reset
+• Fixed an issue with the bonus items
+• Fixed an issue with the trolley logs for staff
+
+TRUCK ROBBERIES
+• Police can remove trolleys
+• After 10 minutes trolleys will now be removed automatically
+• Truck should not explode anymore
+
+BOBCAT
+• Fixed an issue with the bonus items 
+• Fixed an issue with trolley logs for staff
+
+PACIFIC BANK
+• Fixed an issue with clipboard emote being stuck
+
+STORE ROBBERY
+• Fixed an  issue with aiming gun at the NPC
+
+VANGELICO JEWELRY
+• Removed smoke from beginning of heist
+
+OTH
+• OTH Items adjusted to feature new names and descriptions
+
+TRUCKING
+• 5 Brand new trucks have been added!
+• Trucking will now generate more than one contract per interval, improving performance!
+• It is now possible to see the trailer that will be spawned in the job listing, and also the truck in the case of the quick jobs
+
+FAKE PLATES
+• Updated fake plates persistence in keeping items in gloveboxes and trunks even when a fake plate is on.
+
+ATM ROBBERIES
+• Added new events from our inventory to the ATMs Robbery to better sync the use of items and dropped calling this from the system.
+
+GARAGES
+• Fixed Police and EMS vehicle spawners not giving keys and throwing weird error in the F8 console.
+
+PED DENSITY
+• Lowered ped density for vehicles on the road and some different scenarios to make the roads a little bit more clear. Been watching streams and the local traffic can get wild in some areas! This should be more calmed down and feel a bit better! Your feedback would be great! :heart:
+
+LOWER POWER STREET
+• Mapping the lower power street project is completed! Check it out for the first time ever, without construction there! Construction has only been there since GTAs release in 2013. Check out #📸teasers  :rofl: 
+
+MISC
+• Some other misc code clean up and optimizations have also been pushed! 
+• We now plan to start focusing now over the next 30 days, optimizing models, textures, vehicles, handling lines, etc. to improve stability, and make Project Rogue run even better then it already does! This will be a huge task, but will be well worth it! 
+• BEST PART IS, we will be live streaming it all and chatting with the community on live stream about fixes, bugs, and wants, and doing them live on stream during this month of October! 
+• We also plan on releasing 2 robberies and some **FUN SPOOKY ACTIVIITES** for October
