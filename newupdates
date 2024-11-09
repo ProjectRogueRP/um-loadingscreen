@@ -1,149 +1,76 @@
 THIS WEEK AT PROJECT ROGUE ROLEPLAY
 
-WEEK OF SEPTEMBER 23RD
+WEEK OF NOVEMBER 9TH 2024
 
-DARTS
-• Now the game will cancel when the player dies.
-• Added new context menus and updated targeting.
-• Fixed issue with the problem where you hit the 6 and it only gave you 3 points
-• Fixed a ghost control that was being triggered on game change.
-• Fixed animation sometimes that would not happen
-• Fixed an issue regarding bets
-• Fixed a bug with game shake.
+NEW TRAP HOUSE ROBBERY
+• Rob a trap house to gain drugs, future heist materials, and other materials.
+• Trap house will rotate drugs every other week, meaning loot pools will change over time, making the robbery refresh itself every so often.
+• You will need friends, this is not a quiet home invasion, and gang members will fight back.
+• Gain Thief XP and Gang XP
+• This is labeled as a beginner robbery, meaning its after store robbery but before vangies is how we imagined the progression of robberies would go.
+• WL gangs will provide the opportunity for this robbery! Make some connects and RP to try to get your hands on the keys you will need!
+• You will utilize some new products and some old products for this robbery!
 
-PAINTBALL
-• Fixed getting full health after a kill on one in the chamber game modes.
-• Added radial option to quit the match when in the game! It will remove it once you are done!
-• Made it so that you can not join paintball while downed (yes really. So sad that people literally abuse these things :rofl: So cringe)
-• Optimized and cleaned up code. Small security enhancements
+NEW AMMUNATION ROBBERY
+• Rob every single ammunation in the state, including the gun ranges! The gun ranges do offer more loot, and two different robberies in itself! There are also two ways to rob each store, Making over 30 different combinations of the robbery!
+• Players will need to grab their friends and figure out how to rob, to gain armor, cases of bullets, weapons, and even some new weapons that crims have never been able to get before!
+• Gain Thief XP and Gang XP
+• This is labeled as a beginner robbery, meaning its after store robbery but before vangies is how we imagined the progression of robberies would go.
+• You will utilize some new products and some old products for this robbery!
 
-GOLF
-• Now the furthest from the hole each round will shoot first!
-• Now caddys will delete once you leave the golf game.
-• Optimized and cleaned up code. Small security enhancements
+NEW MAZE BANK ROBBERY
+• A new higher tier robbery that will pay out guns and cash!
+• Two ways to rob, loud and quiet! Figure out the ways to rob this location for one of our biggest payouts yet!
+• Brand New MLO and location for this robbery!
+• Super fun, interactive, and immersive! We cant wait to see who hits this first!
+• This is labeled as a high tier robbery, meaning its after bobcat
 
-MECHANIC SHOPS
-• Removed nonexistent mods from showing. Meaning that if the car only goes to transmission 3 instead of 4, it should only show that option to 3.
-• LSC utilized the second paint booth, and now you can use both of them for painting.
+NEW OIL RIG ROBBERY
+• A new higher tier robbery that will pay out guns and items!
+• Three ways to rob, easy, medium and hard! Figure out the ways to rob this location for one of our biggest payouts yet!
+• Brand New MLO and location for this robbery!
+• Super fun, interactive, and immersive! We cant wait to see who hits this first!
+• This is labeled as a high tier robbery, meaning its after bobcat
 
-MARKETS
-• Made it now so if you dont have enough cash on hand for something, it will just deny the placement, making it not remove the table from your pockets. You can then go get cash, and then place the table down once you have enough money for XYZ amount of time your opening the store for!
-• Potential fix for the props and targets messing up. Were still trying to figure out why after X amount of time they are disappearing.
+CRAFTING
+• Added missing drugs section for WL Gang Tables, and made adjustments for these items.
+• Crafting recipes for certain items nerfed to make them easier and not so grindy. Including but not limited to Gun Slides, Gun sights, outfit duffel, duffel bags for robberies, trap phones, gun powder, Tactical suppressor, Extended pistol clip, Extended SMG clip, SMG drum, Extended Rifle clip, Extended rifle drum, and all weapon skins! We also lowered weapon skins to Level 1 Weapons, so they are easier to craft for WL gangs
+• Gun tables adjusted to make WL gangs more of a leader position, to provide guns to the rest of the city. We will of course monitor this change and ensure WL gangs are actually plugging out the city and their needs!
+• Added new items as well!
 
-DOCUMENTS
-• Optimized and cleaned up code. Small security enhancements
+WL GANGS
+• WL gangs on top of their crafting being changed and more exclusive options for them to make, we have added over 12 new guns that they can also get access to through a local cartel in the city!
+• On top of all that, we have introduced 3 explosives they can also get their hands on, to sell to the streets.
+• In addition, we have also added over 20 new drugs! 5 types of LSD, 5 Types of Ecstasy, 6 types of whippets, xanax pills, lemmons, and molly!
+• We have also added serial filers for weapons, and weapon repair kits.
+• If you didn't think that being WL gang was worth it before, this will for sure set the standard for every gang wanting to get WL, **ITS WORTH IT**.
 
-CAR RADIOS
-• Optimized and cleaned up code. Small security enhancements
+STORE ROBBERIES
+• Lowered material for crafting all store robbery items. (also a hint, you do NOT HAVE TO use the circuit tester if you do not want to! Which lowers the cost even more)
+• Disabled liquor stores as they were a little too easy, and took away from all the other stores from being hit. All LTD and Gas Stations have been activated!
 
-JOB APPLICATION SYSTEMS
-• Optimized and cleaned up code. Small security enhancements
+POLICE
+• Fixed issue with vehicle for police MDW when trying to search and locate
+• Added 4 new boats for police since they will need to start hitting the water! LSPD, BCSO, Coast Guard, and Port Authority!
+• Added 4 new spawners in LS, Alamo Sea, West Coast, and East Coast.
 
-HOUSING
-• Apartment storage behaving weirdly like sharing and target stuff
-• MLO Door creation checklist error and completion
-• CCTV placement with raycast causes weird placement. Fixed more stuff with CCTV and the behavior.
-• Save placement opens proper menu back after placing instead of the furniture menu
-• Huge optimization to house loading and house data callbacks. With our 440+ houses tested, we have optimized this information over 6.5x, which is INSANE.
-• Secured event spamming, will drop a player if the event / callback is spammed to protect optimization and performance.
-• `/houseblip` command can be enabled and disabled properly now
-• Fixed weird Wardrobe error in f8
-• Mortgage menu not opening properly
-• Fixed issue with catalogue submit without description and deletion
-• Fixed issue with mobile cataologue for Real Estate Agents.
-• Fixed some other misc. server side bugs that you wouldn't see but I would.
-• Fixed Apartment storage duplicate when moving or creating
-• Fixed Apartment disable buy configuration
-• Fixed Sell apartment refresh properly
-• Fixed Preview apartment
+GLOBAL ROBBERY TIMER
+• Global robbery timer reduced down to only 60 minutes instead of 90 minutes.
 
-JOB BLIPS
-• Added algorithm for resolving bridge resources automatically
-• Added duty support
-• Fixed invalid error messages on the server side
-• Fixed a few sync issues
-• Fixed isPlayerInDuty issue
+BOBCAT ROBBERY
+• Changed bonus item loot pool! You will now gain a bag that will lead into the 2 new higher tier robberies!
 
-FISHING
-• Drooped and disabled the fishing line animation as I am 99% sure that is what causes the weird bug for fishing for some that throws an F8 error causing the user to relog to fish once again. This should no longer happen, please give feedback!
-• Added fishing tournaments! Now every day, randomly, there will be a fishing tournament held by the server.
-• Added command `/fishtournament` to access the scoreboard
-• Users can join a tournament up to 8 hours before the start of the event!
-• There will need to be atleast 8 members of the tournament to start it. If there isnt, tournament will be skipped.
-• Event will be marked on the map, with a blip and you will need to fish within that area for the tournament
-• Prizes for the 1st, 2nd, and 3rd! This includes a gold medal for first place + cash prize and XP prize. 2nd and 3rd will enjoy a cash prize and xp prize as well!
-• Whos gonna be the winner winner chicken dinner?!
+GANG RULES
+• Updated entire rule book for gangs based on feedback they gave us. We are attempting to listen to ideas and place them in there so the community can test out if we can open more ways to roleplay! They can be found here: https://www.projectrogueroleplay.com/gangrules
 
 GARAGES
-• Fixed some exploits found while working on the system
-• Now it prevent vehicle spawn if you are moved from the garage while menu is open
-• Fixed bug where previous garage vehicle names would persist until garage is closed and re-opened
-• Fixed issue where editing a private garage would result in a name taken error.
-• Fixed attempt to index a nil value error when taking a vehicle out of housing
-• Fixed issue where garage coords would cause a comparison error
-
-ATM ROBBERY
-• Remove the entire SQL (great optimization)
-• Integrated the emotes
-• Added Bonus items that are possible
-• Cleaned up the code heavily & Optimized the script more
-• Removed unused and dead code
-• Fixed issues with the logs and added detailed logs
-• ATMs now have a jackpot phase now, which gives a small chance that will actually double the loot by 2x!
-
-FLEECA BANK
-• Fixed an issue with trolley logs for staff
-• Fixed an issue with notifications telling you that you got bonus item even though you didn't
-• Fixed an issue with the printer emote getting stuck
-
-PALETO BANK
-• Fixed an issue with the auto reset
-• Fixed an issue with the bonus items
-• Fixed an issue with the trolley logs for staff
-
-TRUCK ROBBERIES
-• Police can remove trolleys
-• After 10 minutes trolleys will now be removed automatically
-• Truck should not explode anymore
-
-BOBCAT
-• Fixed an issue with the bonus items 
-• Fixed an issue with trolley logs for staff
-
-PACIFIC BANK
-• Fixed an issue with clipboard emote being stuck
-
-STORE ROBBERY
-• Fixed an  issue with aiming gun at the NPC
-
-VANGELICO JEWELRY
-• Removed smoke from beginning of heist
-
-OTH
-• OTH Items adjusted to feature new names and descriptions
-
-TRUCKING
-• 5 Brand new trucks have been added!
-• Trucking will now generate more than one contract per interval, improving performance!
-• It is now possible to see the trailer that will be spawned in the job listing, and also the truck in the case of the quick jobs
-
-FAKE PLATES
-• Updated fake plates persistence in keeping items in gloveboxes and trunks even when a fake plate is on.
-
-ATM ROBBERIES
-• Added new events from our inventory to the ATMs Robbery to better sync the use of items and dropped calling this from the system.
-
-GARAGES
-• Fixed Police and EMS vehicle spawners not giving keys and throwing weird error in the F8 console.
-
-PED DENSITY
-• Lowered ped density for vehicles on the road and some different scenarios to make the roads a little bit more clear. Been watching streams and the local traffic can get wild in some areas! This should be more calmed down and feel a bit better! Your feedback would be great! :heart:
-
-LOWER POWER STREET
-• Mapping the lower power street project is completed! Check it out for the first time ever, without construction there! Construction has only been there since GTAs release in 2013. Check out #📸teasers  :rofl: 
+• Fixed Vehicle extras not re-applying after being disabled
+• Fixed Impound vehicles driving out when clicking 'return to owner's garage' for police.
+• Fixed Issue where vehicle could not be driven out of impound sometimes
 
 MISC
-• Some other misc code clean up and optimizations have also been pushed! 
-• We now plan to start focusing now over the next 30 days, optimizing models, textures, vehicles, handling lines, etc. to improve stability, and make Project Rogue run even better then it already does! This will be a huge task, but will be well worth it! 
-• BEST PART IS, we will be live streaming it all and chatting with the community on live stream about fixes, bugs, and wants, and doing them live on stream during this month of October! 
-• We also plan on releasing 2 robberies and some **FUN SPOOKY ACTIVIITES** for October
+• Fixed WW Truck Livery.
+• Fixed Burgershot Music Station
+• Fixed Taco Music Station & added locks to boss and kitchen door
+• Fixed issue with EMS actions and supplies using older radial progress bar. Also patched where you couldnt cancel their items as well.
+• Cleaned up pocket flags, chains, and masks for men and women
